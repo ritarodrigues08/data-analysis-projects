@@ -1,0 +1,627 @@
+factory_id;factory_name_raw;factory_name;factory_type_raw;factory_type;product_type;nike_brands;suppliers_raw;suppliers;country
+1;A & K Designs, Inc.;A & K Designs, Inc.;FINISHED GOODS;Finished Goods;Apparel;Nike;A & K DESIGNS;A & K Designs;USA
+2;ACode Sporting Goods Co., Ltd.;Acode Sporting Goods Co., Ltd.;FINISHED GOODS;Finished Goods;Equipment;Nike;EXCELLENCE SPORTING GOODS;Excellence Sporting Goods;Vietnam
+3;Ad Dulyal;Ad Dulyal;FINISHED GOODS;Finished Goods;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Jordan
+4;ADORA FOOTWEAR LIMITED;Adora Footwear Limited;FINISHED GOODS;Finished Goods;Footwear;Converse;HUALI;Huali;Vietnam
+5;AHP APPAREL PVT LTD., UNIT 60;Ahp Apparel Pvt Ltd., Unit 60;FINISHED GOODS;Finished Goods;Apparel;Nike;SHAHI;Shahi;India
+6;AHP APPARELS PVT.LTD. UNIT 61;Ahp Apparels Pvt.Ltd. Unit 61;FINISHED GOODS;Finished Goods;Apparel;Nike;SHAHI;Shahi;India
+7;Ajara 1;Ajara 1;FINISHED GOODS;Finished Goods;Apparel;Nike;MILTEKS;Milteks;Georgia
+8;Ajara Textile Ltd;Ajara Textile Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;MILTEKS;Milteks;Georgia
+9;All Wells International Co., Ltd.;All Wells International Co., Ltd.;FINISHED GOODS;Finished Goods;Footwear;Nike;SPORTS GEAR;Sports Gear;Vietnam
+10;Almaxtex Tekstil Sanayi ve Ticaret A.S.;Almaxtex Tekstil Sanayi Ve Ticaret A.S.;FINISHED GOODS;Finished Goods;Apparel;Nike;YESIM;Yesim;Turkey
+11;ANHUI COSMO SPORTING GOODS COMPANY LIMITED;Anhui Cosmo Sporting Goods Company Limited;FINISHED GOODS;Finished Goods;Equipment;Nike;ANHUI COSMO;Anhui Cosmo;China
+12;ANIGER CALCADOS SUPRIMENTOS E EMPREENDIMENTOS LTDA;Aniger Calcados Suprimentos E Empreendimentos Ltda;FINISHED GOODS;Finished Goods;Footwear;Nike;ANIGER;Aniger;Brazil
+13;Annic II S.A.;Annic Ii S.A.;FINISHED GOODS;Finished Goods;Apparel;Nike;GILDAN;Gildan;Nicaragua
+14;Annora Vietnam  Footwear Co.,Ltd;Annora Vietnam  Footwear Co.,Ltd;FINISHED GOODS;Finished Goods;Footwear;Nike;HUALI;Huali;Vietnam
+15;Apple Apparel Cambodia Co Ltd;Apple Apparel Cambodia Co Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;RAMATEX;Ramatex;Cambodia
+16;ArtFX Concord;Artfx Concord;FINISHED GOODS;Finished Goods;Apparel;Nike;TEGRA;Tegra;USA
+17;ARTFX INC;Artfx Inc;FINISHED GOODS;Finished Goods;Apparel;Nike;TEGRA;Tegra;USA
+18;Asena 4;Asena 4;FINISHED GOODS;Finished Goods;Apparel;Nike;YESIM;Yesim;Moldova
+19;ASIATAN (CHINA);Asiatan (China);MATERIALS;Materials;Footwear;Nike;ASIATAN;Asiatan;China
+20;AURORA VIETNAM INDUSTRIAL FOOTWEAR CO., LTD;Aurora Vietnam Industrial Footwear Co., Ltd;FINISHED GOODS;Finished Goods;Footwear;Converse;HUALI;Huali;Vietnam
+21;AVERY DENNISON (GUANGZHOU) CONVERTED PRODUCTS LTD;Avery Dennison (Guangzhou) Converted Products Ltd;MATERIALS;Materials;Apparel;Nike;AVERY DENNISON;Avery Dennison;China
+22;Avery Dennison (Suzhou) Co.,Ltd ;Avery Dennison (Suzhou) Co.,Ltd ;MATERIALS;Materials;Apparel;Nike;AVERY DENNISON;Avery Dennison;China
+23;AVERY DENNISON RIS HONDURAS S DE R;Avery Dennison Ris Honduras S De R;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Apparel;Nike;AVERY DENNISON;Avery Dennison;Honduras
+24;Avery Dennison RIS Italia S.r.l.;Avery Dennison Ris Italia S.R.L.;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Apparel;Nike;AVERY DENNISON;Avery Dennison;Italy
+25;Avery Dennison RIS Vietnam Co. Ltd.;Avery Dennison Ris Vietnam Co. Ltd.;MATERIALS;Materials;Footwear;Nike;AVERY DENNISON;Avery Dennison;Vietnam
+26;Avery Dennison Tekstil Urunleri Sanayi ve Ticaret Ltd. Sti.;Avery Dennison Tekstil Urunleri Sanayi Ve Ticaret Ltd. Sti.;MATERIALS;Materials;Apparel;Nike;AVERY DENNISON;Avery Dennison;Turkey
+27;BAIKSAN (CHINA);Baiksan (China);MATERIALS;Materials;Footwear;Nike;BAIKSAN;Baiksan;China
+28;BAIKSAN (KOREA);Baiksan (Korea);MATERIALS;Materials;Footwear;Nike;BAIKSAN;Baiksan;South Korea
+29;BAIKSAN (TR1) (INDONESIA);Baiksan (Tr1) (Indonesia);MATERIALS;Materials;Footwear;Nike;BAIKSAN;Baiksan;Indonesia
+30;BAIKSAN (VIETNAM);Baiksan (Vietnam);MATERIALS;Materials;Footwear;Nike;BAIKSAN;Baiksan;Vietnam
+31;Berry Apparel Cambodia Co., Ltd.;Berry Apparel Cambodia Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;RAMATEX;Ramatex;Cambodia
+32;Big Game Sports;Big Game Sports;FINISHED GOODS;Finished Goods;Apparel;Nike;BIG GAME SPORTS;Big Game Sports;USA
+33;TNG Investment and Trading JSC - Dai Tu;Tng Investment And Trading Jsc - Dai Tu;FINISHED GOODS;Finished Goods;Apparel;Nike;TNG;Tng;Vietnam
+34;Blue Star Graphics;Blue Star Graphics;FINISHED GOODS;Finished Goods;Apparel;Nike;BLUE STAR;Blue Star;USA
+35;Bodyline (Private) Limited BPL II;Bodyline (Private) Limited Bpl Ii;FINISHED GOODS;Finished Goods;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Sri Lanka
+36;Bodyline Private Limited III;Bodyline Private Limited Iii;FINISHED GOODS;Finished Goods;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Sri Lanka
+37;BODYLINE PVT LIMITED;Bodyline Pvt Limited;FINISHED GOODS;Finished Goods;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Sri Lanka
+38;BRANCH 1 OF GREENTECH HEADGEAR CO., LTD IN DONG NAI;Branch 1 Of Greentech Headgear Co., Ltd In Dong Nai;FINISHED GOODS;Finished Goods;Apparel;Nike;ASIAN SOURCING HEADWEAR;Asian Sourcing Headwear;Vietnam
+39;Branch of Thuan Phuong Embroideries Garments Co., Ltd- M.D.K Factory ;Branch Of Thuan Phuong Embroideries Garments Co., Ltd- M.D.K Factory ;FINISHED GOODS;Finished Goods;Apparel;Nike;THUAN PHUONG;Thuan Phuong;Vietnam
+40;Branch of Thuan Phuong Embroideries Garments Co.,Ltd - Binh Chanh Factory;Branch Of Thuan Phuong Embroideries Garments Co.,Ltd - Binh Chanh Factory;FINISHED GOODS;Finished Goods;Apparel;Nike;THUAN PHUONG;Thuan Phuong;Vietnam
+41;Branch of Thuan Phuong Embroideries Garments Company Limited - Thuan Phuong Long An Factory;Branch Of Thuan Phuong Embroideries Garments Company Limited - Thuan Phuong Long An Factory;FINISHED GOODS;Finished Goods;Apparel;Nike;THUAN PHUONG;Thuan Phuong;Vietnam
+42;Brandix Apparel Solutions (Pvt) Limited – Essentials, Batticaloa;Brandix Apparel Solutions (Pvt) Limited – Essentials, Batticaloa;FINISHED GOODS;Finished Goods;Apparel;Nike;BRANDIX ASIA HOLDINGS;Brandix Asia Holdings;Sri Lanka
+43;Brandix Apparel Solutions (Pvt) Limited – Essentials, Koggala;Brandix Apparel Solutions (Pvt) Limited – Essentials, Koggala;FINISHED GOODS;Finished Goods;Apparel;Nike;BRANDIX ASIA HOLDINGS;Brandix Asia Holdings;Sri Lanka
+44;Brandix Apparel Solutions (Pvt) Limited – Essentials, Kahawatta;Brandix Apparel Solutions (Pvt) Limited – Essentials, Kahawatta;FINISHED GOODS;Finished Goods;Apparel;Nike;BRANDIX SOLUTIONS;Brandix Solutions;Sri Lanka
+45;BRANDIX APPL INDIA(P) LTD;Brandix Appl India(P) Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;BRANDIX ASIA HOLDINGS;Brandix Asia Holdings;India
+46;C&W Embroidery, Inc.;C&W Embroidery, Inc.;FINISHED GOODS;Finished Goods;Apparel;Nike;C&W;C&W;USA
+47;C.C. Creations;C.C. Creations;FINISHED GOODS;Finished Goods;Apparel;Nike;CC CREATIONS;Cc Creations;USA
+48;CAN SPORTS VIETNAM CO., LTD;Can Sports Vietnam Co., Ltd;FINISHED GOODS;Finished Goods;Footwear;Nike;SPORTS GEAR;Sports Gear;Vietnam
+49;Cassia Garment Company Limited;Cassia Garment Company Limited;FINISHED GOODS;Finished Goods;Apparel;Nike;RAMATEX;Ramatex;Thailand
+50;CCH TOP VN CO., LTD.;Cch Top Vn Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;CHUAN CHENG;Chuan Cheng;Vietnam
+51;CHANG SHIN DONG NAI COMPANY LTD;Chang Shin Dong Nai Company Ltd;FINISHED GOODS;Finished Goods;Footwear;Nike;CHANGSHIN;Changshin;Vietnam
+52;CHANG SHIN INDONESIA;Chang Shin Indonesia;FINISHED GOODS;Finished Goods;Footwear;Nike;CHANGSHIN;Changshin;Indonesia
+53;CHANG SHIN VIETNAM CO., LTD;Chang Shin Vietnam Co., Ltd;FINISHED GOODS;Finished Goods;Footwear;Nike;CHANGSHIN;Changshin;Vietnam
+54;CHANG SHIN VIETNAM COMPANY, LTD.;Chang Shin Vietnam Company, Ltd.;FINISHED GOODS;Finished Goods;Footwear;Nike;CHANGSHIN;Changshin;Vietnam
+55;Chang Tai Song Lin Woven Belt Co. LTD;Chang Tai Song Lin Woven Belt Co. Ltd;MATERIALS;Materials;Apparel;Nike;CHI YANG RIBBON;Chi Yang Ribbon;China
+56;Chang Wong Industrial Co., Ltd.;Chang Wong Industrial Co., Ltd.;FINISHED GOODS;Finished Goods;Equipment;Nike;CHANG WONG INDUSTRIAL;Chang Wong Industrial;Taiwan
+57;ChangShin Inc.;Changshin Inc.;FINISHED GOODS;Finished Goods;Footwear;Nike;CHANGSHIN;Changshin;South Korea
+58;Changzhou Qingqing Knitted Textile Co., Ltd.;Changzhou Qingqing Knitted Textile Co., Ltd.;MATERIALS;Materials;Apparel;Converse;DECOR;Decor;China
+59;Charmgo (Cambodia) Co. Ltd;Charmgo (Cambodia) Co. Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;CHARMGO;Charmgo;Cambodia
+60;Cheng Horng Industrial Co., Ltd.;Cheng Horng Industrial Co., Ltd.;MATERIALS;Materials;Apparel;Nike;LITTLE KING;Little King;Taiwan
+61;CHI YANG RIBBON;Chi Yang Ribbon;MATERIALS;Materials;Apparel;Nike;CHI YANG RIBBON;Chi Yang Ribbon;Taiwan
+62;Chongqing Sumec Changjiang Garment Co.,Ltd;Chongqing Sumec Changjiang Garment Co.,Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;SINOMACH SUMEC TEXTILE;Sinomach Sumec Textile;China
+63;CHUAN CHENG HAT CO., LTD.;Chuan Cheng Hat Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;CHUAN CHENG;Chuan Cheng;Taiwan
+64;Chun Yu Ribbon ENT Co., Ltd.;Chun Yu Ribbon Ent Co., Ltd.;MATERIALS;Materials;Apparel;Nike;CHI YANG RIBBON;Chi Yang Ribbon;Taiwan
+65;Chuzhou Korrun Future Luggage Products Co., Ltd;Chuzhou Korrun Future Luggage Products Co., Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;FORMOSA;Formosa;China
+66;COCALQUI COOPERATIVA DE TRABALHO DA INDUSTRIA DE CALCADOS DE QUIXERAMOBIM LTDA.;Cocalqui Cooperativa De Trabalho Da Industria De Calcados De Quixeramobim Ltda.;FINISHED GOODS;Finished Goods;Footwear;Nike;ANIGER;Aniger;Brazil
+67;Colltex Garment Mfy Co., Ltd.(VN);Colltex Garment Mfy Co., Ltd.(Vn);FINISHED GOODS;Finished Goods;Apparel;Nike;ECLAT;Eclat;Vietnam
+68;CONG TIEN GARMENT JOINT STOCK COMPANY;Cong Tien Garment Joint Stock Company;FINISHED GOODS;Finished Goods;Apparel;Nike;SOUTH ISLAND;South Island;Vietnam
+69;Cong TY Tnhh May Mac Premier Global Vietnam;Cong Ty Tnhh May Mac Premier Global Vietnam;FINISHED GOODS;Finished Goods;Apparel;Nike;NICE APPAREL;Nice Apparel;Vietnam
+70;Cooperativa Textil Seuca Ltda.;Cooperativa Textil Seuca Ltda.;FINISHED GOODS;Finished Goods;Apparel;Converse;COOPERATIVA TEXTIL SEUCA;Cooperativa Textil Seuca;Argentina
+71;COOPERSHOES-COOPERATIVA DE TRABALHO E INDUSTRIA DE CALCADOS JOANETENSE LTDA (Morada Nova).;Coopershoes-Cooperativa De Trabalho E Industria De Calcados Joanetense Ltda (Morada Nova).;FINISHED GOODS;Finished Goods;Footwear;Converse;COOPERSHOES;Coopershoes;Brazil
+72;COOPERSHOES - COOPERATIVA DE TRABALHO E INDUSTRIA DE CALCADOS JOANETENSE LTDA Garibaldi;Coopershoes - Cooperativa De Trabalho E Industria De Calcados Joanetense Ltda Garibaldi;FINISHED GOODS;Finished Goods;Footwear;Converse;COOPERSHOES;Coopershoes;Brazil
+73;COOPERSHOES - COOPERATIVA DE TRABALHO E INDUSTRIA DE CALCADOS JOANETENSE LTDA Las Flores;Coopershoes - Cooperativa De Trabalho E Industria De Calcados Joanetense Ltda Las Flores;FINISHED GOODS;Finished Goods;Footwear;Converse;COOPERSHOES;Coopershoes;Argentina
+74;COOPERSHOES - COOPERATIVA DE TRABALHO E INDUSTRIA DE CALÇADOS JOANETENSE LTDA (Picada Café);Coopershoes - Cooperativa De Trabalho E Industria De Calçados Joanetense Ltda (Picada Café);FINISHED GOODS;Finished Goods;Footwear;Converse;COOPERSHOES;Coopershoes;Brazil
+75;Hoosier Manufacturing;Hoosier Manufacturing;FINISHED GOODS;Finished Goods;Apparel;Nike;INDIANA KNITWEAR;Indiana Knitwear;Guatemala
+76;COSMO TEXTILE CO.,LTD(KNITTING/WOVEN CHINA);Cosmo Textile Co.,Ltd(Knitting/Woven China);MATERIALS;Materials;Footwear;Nike;COSMOPOLITAN TEXTILE;Cosmopolitan Textile;China
+77;COSMO TEXTILE CO.,LTD(NON-WOVEN CHINA);Cosmo Textile Co.,Ltd(Non-Woven China);MATERIALS;Materials;Footwear;Nike;COSMOPOLITAN TEXTILE;Cosmopolitan Textile;China
+78;COSMO TEXTILE CO.,LTD(ZHONGSHAN);Cosmo Textile Co.,Ltd(Zhongshan);MATERIALS;Materials;Footwear;Converse;COSMOPOLITAN TEXTILE;Cosmopolitan Textile;China
+79;COSMO VIETNAM CO.,LTD;Cosmo Vietnam Co.,Ltd;MATERIALS;Materials;Footwear;Converse;COSMOPOLITAN TEXTILE;Cosmopolitan Textile;Vietnam
+80;COSMO-E-MART NON-WOVEN COMPANY LIMITED;Cosmo-E-Mart Non-Woven Company Limited;MATERIALS;Materials;Footwear;Nike;COSMOPOLITAN TEXTILE;Cosmopolitan Textile;Vietnam
+81;DAEHWA INDONESIA PT (TR1) (INDONESIA);Daehwa Indonesia Pt (Tr1) (Indonesia);MATERIALS;Materials;Footwear;Nike;DAEHWA;Daehwa;Indonesia
+82;DAERIM TEXTILE CO LTD (KOREA);Daerim Textile Co Ltd (Korea);MATERIALS;Materials;Footwear;Nike;DAERIM TEXTILE;Daerim Textile;South Korea
+83;DAEWON (KOREA);Daewon (Korea);MATERIALS;Materials;Footwear;Nike;DAEWON;Daewon;South Korea
+84;DAEWON CHEMICAL VINA CO., LTD.;Daewon Chemical Vina Co., Ltd.;MATERIALS;Materials;Footwear;Nike;DAEWON;Daewon;Vietnam
+85;Dah Jeng Embroidery;Dah Jeng Embroidery;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Apparel;Nike;EMBLEM SOURCE;Emblem Source;Taiwan
+86;DASS ELDORADO SRL;Dass Eldorado Srl;FINISHED GOODS;Finished Goods;Footwear;Nike;DASS;Dass;Argentina
+87;Dass Nordeste Calcados e Artigos Esportivos Ltda;Dass Nordeste Calcados E Artigos Esportivos Ltda;FINISHED GOODS;Finished Goods;Footwear;Nike;DASS;Dass;Brazil
+88;DASS NORDESTE CALCADOS E ARTIGOS ESPORTIVOS LTDA.;Dass Nordeste Calcados E Artigos Esportivos Ltda.;FINISHED GOODS;Finished Goods;Apparel;Nike;CLASSICO;Classico;Brazil
+89;DASS Nordeste Calcados e Artigos Esportivos LTDA.;Dass Nordeste Calcados E Artigos Esportivos Ltda.;FINISHED GOODS;Finished Goods;Footwear;Nike;DASS;Dass;Brazil
+90;DASS NORDESTE CALÇADOS E ARTIGOS ESPORTIVOS LTDA;Dass Nordeste Calçados E Artigos Esportivos Ltda;FINISHED GOODS;Finished Goods;Footwear;Nike;DASS;Dass;Brazil
+91;Dass Sul Calcados e Artigos Esportivos Ltda;Dass Sul Calcados E Artigos Esportivos Ltda;FINISHED GOODS;Finished Goods;Apparel;Nike;CLASSICO;Classico;Brazil
+92;FREETREND INDUSTRIAL A (VIETNAM) CO., LTD;Freetrend Industrial A (Vietnam) Co., Ltd;FINISHED GOODS;Finished Goods;Footwear;Nike;DEAN SHOES;Dean Shoes;Vietnam
+93;DECOTEX INTERNATIONAL, Ldta de C.V.;Decotex International, Ldta De C.V.;FINISHED GOODS;Finished Goods;Apparel;Nike;TEGRA;Tegra;El Salvador
+94;Delta Alfa Corap Ve Tekstil Sanayi Tic Ltd Sti;Delta Alfa Corap Ve Tekstil Sanayi Tic Ltd Sti;FINISHED GOODS;Finished Goods;Equipment;Nike;DELTA;Delta;Turkey
+95;Delta Campeche S.A.de C.V.;Delta Campeche S.A.De C.V.;FINISHED GOODS;Finished Goods;Apparel;Nike;FUN TEES;Fun Tees;Mexico
+96;Delta Galil Industries LTD Egypt;Delta Galil Industries Ltd Egypt;FINISHED GOODS;Finished Goods;Apparel;Nike;DELTA;Delta;Egypt
+97;Delta Galil Vietnam Co., Ltd;Delta Galil Vietnam Co., Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;DELTA;Delta;Vietnam
+98;Delta Socks Ltd.;Delta Socks Ltd.;FINISHED GOODS;Finished Goods;Equipment;Nike;DELTA;Delta;Israel
+99;DELTA TEXTILE BULGARIA LTD.;Delta Textile Bulgaria Ltd.;FINISHED GOODS;Finished Goods;Equipment;Nike;DELTA;Delta;Bulgaria
+100;Der Will S.A.;Der Will S.A.;FINISHED GOODS;Finished Goods;Apparel;Nike;DER WILL;Der Will;Argentina
+101;DESTRO PAOLO SPA;Destro Paolo Spa;FINISHED GOODS;Finished Goods;Equipment;Nike;DESTRO;Destro;Italy
+102;Dewhirst Cambodia;Dewhirst Cambodia;FINISHED GOODS;Finished Goods;Apparel;Nike;CASTLECRAFTS;Castlecrafts;Cambodia
+103;Diamant srl;Diamant Srl;FINISHED GOODS;Finished Goods;Footwear;Nike;DIAMANT;Diamant;Italy
+104;Diamant srl #2;Diamant Srl #2;FINISHED GOODS;Finished Goods;Footwear;Nike;DIAMANT;Diamant;Italy
+105;DOG STYLE SA DE CV;Dog Style Sa De Cv;FINISHED GOODS;Finished Goods;Equipment;Nike;DOG STYLE SA;Dog Style Sa;Mexico
+106;VIETNAM DONA ORIENT CO., LTD;Vietnam Dona Orient Co., Ltd;FINISHED GOODS;Finished Goods;Footwear;Nike;FENG TAY;Feng Tay;Vietnam
+107;Dona Pacific Vietnam Co., Ltd.;Dona Pacific Vietnam Co., Ltd.;FINISHED GOODS;Finished Goods;Footwear;Nike;FENG TAY;Feng Tay;Vietnam
+108;Vietnam Dona Standard Footwear Co., Ltd;Vietnam Dona Standard Footwear Co., Ltd;FINISHED GOODS;Finished Goods;Footwear;Nike;FENG TAY;Feng Tay;Vietnam
+109;DONA VICTOR FOOTWEAR CO., LTD;Dona Victor Footwear Co., Ltd;FINISHED GOODS;Finished Goods;Footwear;Nike;FENG TAY;Feng Tay;Vietnam
+110;Dong Guan Goldenprene Sporting Goods Co., Ltd.;Dong Guan Goldenprene Sporting Goods Co., Ltd.;FINISHED GOODS;Finished Goods;Equipment;Nike;GUANG DER;Guang Der;China
+111;Dong Guan New Prosperity Optical Mfy Ltd. Chang An Branch;Dong Guan New Prosperity Optical Mfy Ltd. Chang An Branch;FINISHED GOODS;Finished Goods;Equipment;Nike;SUN HING OPTICAL;Sun Hing Optical;China
+112;Dongguan leefong label manufacture co ltd.;Dongguan Leefong Label Manufacture Co Ltd.;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Apparel;Nike;LEE BOU LABEL ENTERPRISE;Lee Bou Label Enterprise;China
+113;Dongguan Stella Footwear Product Creation Co., LTD.;Dongguan Stella Footwear Product Creation Co., Ltd.;FINISHED GOODS;Finished Goods;Footwear;Nike;STELLA;Stella;China
+114;Dongguan Ye Ji Industrial Co., Ltd.;Dongguan Ye Ji Industrial Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;CRYSTAL;Crystal;China
+115;Dongguan Youkai Industrial Co., Ltd;Dongguan Youkai Industrial Co., Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;DONGGUAN YOUKAI;Dongguan Youkai;China
+116;DONGJIN (Indonesia);Dongjin (Indonesia);MATERIALS;Materials;Footwear;Nike;DONGJIN;Dongjin;Indonesia
+117;DONGJIN TEXTILE DYEING HOUSE;Dongjin Textile Dyeing House;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;DONGJIN;Dongjin;South Korea
+118;DONGJIN TEXTILE VINA;Dongjin Textile Vina;MATERIALS;Materials;Footwear;Nike;DONGJIN;Dongjin;Vietnam
+119;DONGJIN TEXTILE VINA Co., Ltd ;Dongjin Textile Vina Co., Ltd ;MATERIALS;Materials;Footwear;Nike;DONGJIN;Dongjin;Vietnam
+120;DUCKSAN ;Ducksan ;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;DUCKSAN;Ducksan;South Korea
+121;DUCKSAN CO LTD (KOREA);Ducksan Co Ltd (Korea);MATERIALS;Materials;Footwear;Nike;DUCKSAN;Ducksan;South Korea
+122;DUCKSAN CO LTD (Vietnam);Ducksan Co Ltd (Vietnam);MATERIALS;Materials;Footwear;Nike;DUCKSAN;Ducksan;Vietnam
+123;E-Top (Vietnam) Co.,Ltd;E-Top (Vietnam) Co.,Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;ECLAT;Eclat;Vietnam
+124;Eagle Nice (Yifeng) Garments Co., Ltd;Eagle Nice (Yifeng) Garments Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;EAGLE NICE;Eagle Nice;China
+125;EAGLE NICE JINGMEN GARMENTS CO LTD;Eagle Nice Jingmen Garments Co Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;EAGLE NICE;Eagle Nice;China
+126;East Wind Footwear Company Limited (India Branch) - Unit I;East Wind Footwear Company Limited (India Branch) - Unit I;FINISHED GOODS;Finished Goods;Footwear;Nike;FENG TAY;Feng Tay;India
+127;ECI ELASTIC CO LTD;Eci Elastic Co Ltd;MATERIALS;Materials;Apparel;Nike;ECI;Eci;Taiwan
+128;ECLAT FABRIC CO., LTD.;Eclat Fabric Co., Ltd.;MATERIALS;Materials;Apparel;Nike;ECLAT;Eclat;Vietnam
+129;ECLAT TEXTILE CO., LTD. (VIETNAM);Eclat Textile Co., Ltd. (Vietnam);FINISHED GOODS;Finished Goods;Apparel;Nike;ECLAT;Eclat;Vietnam
+130;ECLAT TEXTILE CO., LTD.;Eclat Textile Co., Ltd.;MATERIALS;Materials;Apparel;Nike;ECLAT;Eclat;Taiwan
+131;Eko Egypt International;Eko Egypt International;FINISHED GOODS;Finished Goods;Apparel;Nike;MILTEKS;Milteks;Egypt
+132;ELITE INVESTMENT WORLDWIDE CO., LTD;Elite Investment Worldwide Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;TUNG MUNG;Tung Mung;Vietnam
+133;Enping Kam Hing Textile And Dyeing Co., Ltd.;Enping Kam Hing Textile And Dyeing Co., Ltd.;MATERIALS;Materials;Apparel;Converse;KAM HING;Kam Hing;China
+134;ENVA TEXTILE GROUP FOR SOCKS PRODUCTION SE;Enva Textile Group For Socks Production Se;FINISHED GOODS;Finished Goods;Apparel;Nike;ENVA TEXTILE GROUP;Enva Textile Group;Egypt
+135;EUN SUNG GLOBAL CO LTD (KOREA);Eun Sung Global Co Ltd (Korea);MATERIALS;Materials;Footwear;Nike;EUN SUNG GLOBAL;Eun Sung Global;South Korea
+136;EverTech Plastic Vietnam Company LTD Branch;Evertech Plastic Vietnam Company Ltd Branch;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;EVER TECH;Ever Tech;Vietnam
+137;EVEREST TEXTILE CO LTD;Everest Textile Co Ltd;MATERIALS;Materials;Apparel;Nike;EVEREST TEXTILE;Everest Textile;Taiwan
+138;EVEREST TEXTILES CHINA;Everest Textiles China;MATERIALS;Materials;Apparel;Nike;EVEREST TEXTILE;Everest Textile;China
+139;EVEREST TEXTILES THAILAND-V;Everest Textiles Thailand-V;MATERIALS;Materials;Apparel;Nike;EVEREST TEXTILE;Everest Textile;Thailand
+140;Evergreen Apparel Mfg.;Evergreen Apparel Mfg.;FINISHED GOODS;Finished Goods;Apparel;Nike;YY & ASSOCIATES;Yy & Associates;USA
+141;Evermax Garment Accessories (Cambodia)Co., LTD;Evermax Garment Accessories (Cambodia)Co., Ltd;MATERIALS;Materials;Apparel;Nike;MAXIM;Maxim;Cambodia
+142;FA.IS.A. d.o.o.;Fa.Is.A. D.O.O.;FINISHED GOODS;Finished Goods;Equipment;Nike;GATTO;Gatto;Croatia
+143;Fairway Enterprises Company Limited (India Branch);Fairway Enterprises Company Limited (India Branch);FINISHED GOODS;Finished Goods;Footwear;Nike;FENG TAY;Feng Tay;India
+144;Lotus Footwear Enterprises Ltd. (India Branch) - Unit 1;Lotus Footwear Enterprises Ltd. (India Branch) - Unit 1;FINISHED GOODS;Finished Goods;Footwear;Nike;FENG TAY;Feng Tay;India
+145;FAR EASTERN;Far Eastern;MATERIALS;Materials;Apparel;Nike;FAR EASTERN;Far Eastern;Taiwan
+146;Far Eastern Apparal Suzhou Ltd. Co;Far Eastern Apparal Suzhou Ltd. Co;FINISHED GOODS;Finished Goods;Apparel;Nike;FAR EASTERN;Far Eastern;China
+147;Far Eastern Apparel (Vietnam) Limited;Far Eastern Apparel (Vietnam) Limited;FINISHED GOODS;Finished Goods;Apparel;Nike;FAR EASTERN;Far Eastern;Vietnam
+148;Far Eastern Apparel Limited Vietnam;Far Eastern Apparel Limited Vietnam;FINISHED GOODS;Finished Goods;Apparel;Nike;FAR EASTERN;Far Eastern;Vietnam
+149;Far Eastern Dyeing & Finishing (SuZhou) LTD;Far Eastern Dyeing & Finishing (Suzhou) Ltd;MATERIALS;Materials;Apparel;Nike;FAR EASTERN;Far Eastern;China
+150;Far Eastern New Apparel (Vietnam) Ltd (MDC);Far Eastern New Apparel (Vietnam) Ltd (Mdc);FINISHED GOODS;Finished Goods;Apparel;Nike;FAR EASTERN;Far Eastern;Vietnam
+151;FAR EASTERN POLYTEX (VIETNAM) LTD;Far Eastern Polytex (Vietnam) Ltd;MATERIALS;Materials;Apparel;Nike;FAR EASTERN;Far Eastern;Vietnam
+152;FASHION GARMENTS 2 CO., LTD;Fashion Garments 2 Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;HIRDARAMANI;Hirdaramani;Vietnam
+153;FASHION GARMENTS 2 CO., LTD;Fashion Garments 2 Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;HIRDARAMANI;Hirdaramani;Vietnam
+154;Fashion Garments 2 Co., Ltd - Xuan Tay;Fashion Garments 2 Co., Ltd - Xuan Tay;FINISHED GOODS;Finished Goods;Apparel;Nike;HIRDARAMANI;Hirdaramani;Vietnam
+155;FASHION GARMENTS MEKONG CO., LTD;Fashion Garments Mekong Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;FASHION GARMENTS;Fashion Garments;Vietnam
+156;Feng Tay Enterprises Co., Ltd;Feng Tay Enterprises Co., Ltd;FINISHED GOODS;Finished Goods;Footwear;Nike;FENG TAY;Feng Tay;Taiwan
+157;FITA TEKSTIL KONF.LTD.STI;Fita Tekstil Konf.Ltd.Sti;FINISHED GOODS;Finished Goods;Apparel;Nike;YESIM;Yesim;Turkey
+158;Fjord, Ltd.;Fjord, Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;TEGRA;Tegra;USA
+159;FOOTMARK CAMBODIA CORPORATION;Footmark Cambodia Corporation;FINISHED GOODS;Finished Goods;Apparel;Nike;FOOTMARK;Footmark;Cambodia
+160;FORMOSA TAFFETA (CHANGSHU) CO., LTD;Formosa Taffeta (Changshu) Co., Ltd;MATERIALS;Materials;Apparel;Nike;FORMOSA TAFFETA;Formosa Taffeta;China
+161;FORMOSA TAFFETA CO., LTD.;Formosa Taffeta Co., Ltd.;MATERIALS;Materials;Apparel;Nike;FORMOSA TAFFETA;Formosa Taffeta;Taiwan
+162;FORMOSA TAFFETA DONG NAI CO., LTD.;Formosa Taffeta Dong Nai Co., Ltd.;MATERIALS;Materials;Apparel;Nike;FORMOSA TAFFETA;Formosa Taffeta;Vietnam
+163;FORMOSA TAFFETA VIETNAM CO LTD;Formosa Taffeta Vietnam Co Ltd;MATERIALS;Materials;Apparel;Nike;FORMOSA TAFFETA;Formosa Taffeta;Vietnam
+164;FORMOSA TING SHO ENT CO LTD (TAIWAN);Formosa Ting Sho Ent Co Ltd (Taiwan);MATERIALS;Materials;Footwear;Nike;FORMOSA TING SHO;Formosa Ting Sho;Taiwan
+165;framas Korea;Framas Korea;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;FRAMAS;Framas;South Korea
+166;framas Korea Vina Co., Ltd;Framas Korea Vina Co., Ltd;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;FRAMAS;Framas;Vietnam
+167;FREETREND INDUSTRIAL (VIETNAM) CO., LTD;Freetrend Industrial (Vietnam) Co., Ltd;FINISHED GOODS;Finished Goods;Footwear;Nike;DEAN SHOES;Dean Shoes;Vietnam
+168;Fu-Luh Shoes Co., LTD;Fu-Luh Shoes Co., Ltd;FINISHED GOODS;Finished Goods;Footwear;Nike;CHING LUH;Ching Luh;Vietnam
+169;Fujian Lifeng Footwear Industrial Development CO.,LTD.;Fujian Lifeng Footwear Industrial Development Co.,Ltd.;FINISHED GOODS;Finished Goods;Footwear;Nike;FENG TAY;Feng Tay;China
+170;Fujian San Feng Footwear Co.,Ltd;Fujian San Feng Footwear Co.,Ltd;FINISHED GOODS;Finished Goods;Footwear;Nike;FENG TAY;Feng Tay;China
+171;Fujian Xiefeng Footwear Co.,Ltd.;Fujian Xiefeng Footwear Co.,Ltd.;FINISHED GOODS;Finished Goods;Footwear;Nike;FENG TAY;Feng Tay;China
+172;Future Garment Co., Ltd.;Future Garment Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;HI TECH;Hi Tech;Thailand
+173;Gain Lucky (Vietnam) Limited;Gain Lucky (Vietnam) Limited;MATERIALS;Materials;Apparel;Nike;SHENZHOU;Shenzhou;Vietnam
+174;GB LIGHT CO LTD;Gb Light Co Ltd;MATERIALS;Materials;Footwear;Nike;GB LIGHT;Gb Light;South Korea
+175;GB LIGHT CO LTD (VIETNAM);Gb Light Co Ltd (Vietnam);MATERIALS;Materials;Footwear;Nike;GB LIGHT;Gb Light;Vietnam
+176;Germton Industrial Company Ltd.;Germton Industrial Company Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;GERMTON;Germton;Vietnam
+177;Gianel Shoes srl;Gianel Shoes Srl;FINISHED GOODS;Finished Goods;Footwear;Nike;GIANEL;Gianel;Italy
+178;GILDAN HOSIERY RIO NANCE S de R.L.;Gildan Hosiery Rio Nance S De R.L.;FINISHED GOODS;Finished Goods;Equipment;Nike;GILDAN;Gildan;Honduras
+179;Global Sales and Warehousing, LLC;Global Sales And Warehousing, Llc;FINISHED GOODS;Finished Goods;Equipment;Nike;GLOBAL SALES WAREHOUSING;Global Sales Warehousing;USA
+180;GOLD LONG JOHN (INDONESIA);Gold Long John (Indonesia);MATERIALS;Materials;Footwear;Nike;GOLD LONG JOHN;Gold Long John;Indonesia
+181;GOLD LONG JOHN (TR1) (CHINA);Gold Long John (Tr1) (China);MATERIALS;Materials;Footwear;Nike;GOLD LONG JOHN;Gold Long John;China
+182;GOLD LONG JOHN (TR1) (TAIWAN);Gold Long John (Tr1) (Taiwan);MATERIALS;Materials;Footwear;Nike;GOLD LONG JOHN;Gold Long John;Taiwan
+183;Gold Long John (Vietnam 2nd location);Gold Long John (Vietnam 2Nd Location);MATERIALS;Materials;Footwear;Nike;GOLD LONG JOHN;Gold Long John;Vietnam
+184;GOLD LONG JOHN (VIETNAM);Gold Long John (Vietnam);MATERIALS;Materials;Footwear;Nike;GOLD LONG JOHN;Gold Long John;Vietnam
+185;Green TG Co., Ltd;Green Tg Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;SNOGEN GREEN;Snogen Green;Vietnam
+186;GREEN VINA CO., LTD.;Green Vina Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;SNOGEN GREEN;Snogen Green;Vietnam
+187;Greentech Headgear Company Limited ;Greentech Headgear Company Limited ;FINISHED GOODS;Finished Goods;Apparel;Nike;ASIAN SOURCING HEADWEAR;Asian Sourcing Headwear;Vietnam
+188;Guangdong Glory textile Enterprise Co., Ltd.;Guangdong Glory Textile Enterprise Co., Ltd.;MATERIALS;Materials;Footwear;Converse;HARVEST GLORY;Harvest Glory;China
+189;Guangdong Zhongyun Intelligent Manufacturing Garment Co., Ltd;Guangdong Zhongyun Intelligent Manufacturing Garment Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;GZY;Gzy;China
+190;GUSHI BRANCH YANGZHOU BAOYI SHOES;Gushi Branch Yangzhou Baoyi Shoes;FINISHED GOODS;Finished Goods;Footwear;Converse;LAI YIH;Lai Yih;China
+191;H&L APPAREL(VIETNAM) CO.,LTD;H&L Apparel(Vietnam) Co.,Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;H&L;H&L;Vietnam
+192;Ha Noi Garment No. 40 Joint Stock Company;Ha Noi Garment No. 40 Joint Stock Company;FINISHED GOODS;Finished Goods;Apparel;Nike;MAXPORT;Maxport;Vietnam
+193;Haian Textile Printing & Dyeing (Fuqing) Co.,Ltd.;Haian Textile Printing & Dyeing (Fuqing) Co.,Ltd.;MATERIALS;Materials;Footwear;Converse;HAIAN;Haian;China
+194;Haivina Hong Linh Co. Ltd;Haivina Hong Linh Co. Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;HAIVINA HONG;Haivina Hong;Vietnam
+195;Haiyan Golden Gate Socks Industry Co., Ltd;Haiyan Golden Gate Socks Industry Co., Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;HAIYAN;Haiyan;China
+196;HAYAFUJI;Hayafuji;FINISHED GOODS;Finished Goods;Footwear;Nike;HAYAFUJI;Hayafuji;Japan
+197;HAYLEYS FABRIC PLC ;Hayleys Fabric Plc ;MATERIALS;Materials;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Sri Lanka
+198;HESHAN TOP EAGLE GARMENT LTD.;Heshan Top Eagle Garment Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;NICE APPAREL;Nice Apparel;China
+199;HESHENG CO., LTD.;Hesheng Co., Ltd.;FINISHED GOODS;Finished Goods;Equipment;Nike;HESHENG;Hesheng;Vietnam
+200;Hi-Tech Apparel Cambodia Co., Ltd.;Hi-Tech Apparel Cambodia Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;HI TECH;Hi Tech;Cambodia
+201;HI TECH APPAREL CO LTD, BRANCH 70;Hi Tech Apparel Co Ltd, Branch 70;FINISHED GOODS;Finished Goods;Apparel;Nike;HI TECH;Hi Tech;Thailand
+202;Hi-Tech Apparel Co. Ltd.;Hi-Tech Apparel Co. Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;HI TECH;Hi Tech;Thailand
+203;HI-TECH APPAREL CO.,LTD. (SUPANBURI BRANCH);Hi-Tech Apparel Co.,Ltd. (Supanburi Branch);FINISHED GOODS;Finished Goods;Apparel;Nike;HI TECH;Hi Tech;Thailand
+204;Hi-Tech Chaiyaphum Apparel (2020) Co.,Ltd.;Hi-Tech Chaiyaphum Apparel (2020) Co.,Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;HI TECH;Hi Tech;Thailand
+205;Hi-Tech Chaiyaphum Apparel (2011) Co.,Ltd.;Hi-Tech Chaiyaphum Apparel (2011) Co.,Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;HI TECH;Hi Tech;Thailand
+206;Hi-Tech Surin Apparel co., ltd. (Branch 1);Hi-Tech Surin Apparel Co., Ltd. (Branch 1);FINISHED GOODS;Finished Goods;Apparel;Nike;HI TECH;Hi Tech;Thailand
+207;Hi-Tech Viet Nam Apparel Co.,Ltd.;Hi-Tech Viet Nam Apparel Co.,Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;HI TECH;Hi Tech;Vietnam
+208;Higuchi Kaban Kobo ;Higuchi Kaban Kobo ;FINISHED GOODS;Finished Goods;Equipment;Nike;CROSTER;Croster;Japan
+209;Hip Keung (Cambodia) Manufacturing Co., Ltd.;Hip Keung (Cambodia) Manufacturing Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;HIP KEUNG;Hip Keung;Cambodia
+210;HONG SHENG LEATHER DONGGUAN IND. CO., LTD;Hong Sheng Leather Dongguan Ind. Co., Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;GUANG DER;Guang Der;China
+211;HONSIN APPAREL SDN. BHD.;Honsin Apparel Sdn. Bhd.;FINISHED GOODS;Finished Goods;Apparel;Nike;HONSIN;Honsin;Malaysia
+212;Honways Apparel Shuyang Limited;Honways Apparel Shuyang Limited;FINISHED GOODS;Finished Goods;Apparel;Nike;HONSIN;Honsin;China
+213;Hoosier Manufacturing, Compania Limitada;Hoosier Manufacturing, Compania Limitada;FINISHED GOODS;Finished Goods;Apparel;Nike;INDIANA KNITWEAR;Indiana Knitwear;Guatemala
+214;HUA FENG (CHINA);Hua Feng (China);MATERIALS;Materials;Footwear;Nike;HUA FENG TEXTILE;Hua Feng Textile;China
+215;Hua Feng Haptic Vietnam;Hua Feng Haptic Vietnam;MATERIALS;Materials;Footwear;Nike;HUA FENG TEXTILE;Hua Feng Textile;Vietnam
+216;HUAFENG HAPTIC;Huafeng Haptic;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;HUA FENG TEXTILE;Hua Feng Textile;China
+217;Huaian Yuangtong Headwear Mfg Co Ltd;Huaian Yuangtong Headwear Mfg Co Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;ASIAN SOURCING HEADWEAR;Asian Sourcing Headwear;China
+218;Huajin Textile Printing &Dyeing Co.,LTD;Huajin Textile Printing &Dyeing Co.,Ltd;MATERIALS;Materials;Footwear;Converse;HUAJIN;Huajin;China
+219;Hubei Sunsmile Footwear Co., Ltd.;Hubei Sunsmile Footwear Co., Ltd.;FINISHED GOODS;Finished Goods;Footwear;Converse;FJ GROUP;Fj Group;China
+220;HUBEI TOP EAGLE GARMENT LTD.;Hubei Top Eagle Garment Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;NICE APPAREL;Nice Apparel;China
+221;HUIZHOU YANGMING INDUSTRIAL CO., LTD.;Huizhou Yangming Industrial Co., Ltd.;FINISHED GOODS;Finished Goods;Equipment;Converse;HYI;Hyi;China
+222;HUNG LONG GARMENT AND SERVICE JOINT STOCK COMPANY;Hung Long Garment And Service Joint Stock Company;FINISHED GOODS;Finished Goods;Apparel;Nike;HUNG LONG GARMENT;Hung Long Garment;Vietnam
+223;IMPULSE FASHION TAE HEE JOINT STOCK COMPANY;Impulse Fashion Tae Hee Joint Stock Company;FINISHED GOODS;Finished Goods;Apparel;Nike;IMPULSE FASHION COMPANY;Impulse Fashion Company;Vietnam
+224;INDUSTRIAS MERLET, S.A. DE C.V.;Industrias Merlet, S.A. De C.V.;FINISHED GOODS;Finished Goods;Apparel;Nike;INDUSTRIAS MERLET;Industrias Merlet;El Salvador
+225;INJEXTECH INC.;Injextech Inc.;FINISHED GOODS;Finished Goods;Equipment;Nike;TAROKO INTERNATIONAL;Taroko International;Taiwan
+226;Interloop Limited;Interloop Limited;FINISHED GOODS;Finished Goods;Apparel;Nike;INTERLOOP;Interloop;Pakistan
+227;Iruna Comunicacion Textil - SERISUR;Iruna Comunicacion Textil - Serisur;FINISHED GOODS;Finished Goods;Apparel;Nike;IRUNA;Iruna;Spain
+228;ISA INDUSTRIAL CO LTD (HESHAN) (CHINA);Isa Industrial Co Ltd (Heshan) (China);MATERIALS;Materials;Footwear;Nike;ISA;Isa;China
+229;ISA INDUSTRIAL CO LTD (VIETNAM);Isa Industrial Co Ltd (Vietnam);MATERIALS;Materials;Footwear;Nike;ISA;Isa;Vietnam
+230;Jade Apparel Industries;Jade Apparel Industries;FINISHED GOODS;Finished Goods;Apparel;Nike;YESIM;Yesim;Egypt
+231;Jade Apparel Industries SAE;Jade Apparel Industries Sae;FINISHED GOODS;Finished Goods;Apparel;Nike;YESIM;Yesim;Egypt
+232;Jade Textile Egypt;Jade Textile Egypt;FINISHED GOODS;Finished Goods;Apparel;Nike;YESIM;Yesim;Egypt
+233;Jade textile Ismailia S.A.E;Jade Textile Ismailia S.A.E;FINISHED GOODS;Finished Goods;Apparel;Nike;YESIM;Yesim;Egypt
+234;Jiangsu Asian Sourcing Headwear MFG. CO., Ltd;Jiangsu Asian Sourcing Headwear Mfg. Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;ASIAN SOURCING HEADWEAR;Asian Sourcing Headwear;China
+235;JiangSu HongBao Sporting Goods Co., Ltd.;Jiangsu Hongbao Sporting Goods Co., Ltd.;FINISHED GOODS;Finished Goods;Equipment;Nike;YEGIN;Yegin;China
+236;JIANGSU JINHUBAO GARMENT CO., LTD;Jiangsu Jinhubao Garment Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Converse;DECOR;Decor;China
+237;Jiangxi Guangyou Shoetown Footwear Co., Ltd.;Jiangxi Guangyou Shoetown Footwear Co., Ltd.;FINISHED GOODS;Finished Goods;Footwear;Nike;SHOETOWN;Shoetown;China
+238;JIAXING KANAAN BAG R&D CO.,LTD;Jiaxing Kanaan Bag R&D Co.,Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;KANAAN;Kanaan;China
+239;JIAXING QUANG VIET GARMENT CO., LTD.;Jiaxing Quang Viet Garment Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;QUANG VIET;Quang Viet;China
+240;JK GARMENTS PVT LTD;Jk Garments Pvt Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;HONSIN;Honsin;Sri Lanka
+241;JOONGANG DYEING FABRIC CO., LTD;Joongang Dyeing Fabric Co., Ltd;MATERIALS;Materials;Footwear;Nike;JOONGANG TEXTILE;Joongang Textile;South Korea
+242;JOONGANG TEXTILE CO LTD (WARP/WEFT KNIT);Joongang Textile Co Ltd (Warp/Weft Knit);MATERIALS;Materials;Footwear;Nike;JOONGANG TEXTILE;Joongang Textile;South Korea
+243;JOV GARMENT ACCESSORIAL MATERIAL CO., LTD;Jov Garment Accessorial Material Co., Ltd;MATERIALS;Materials;Apparel;Nike;JOV GARMENT ACCESSORIAL MATERIAL;Jov Garment Accessorial Material;China
+244;K-L MFG. CO., INC.;K-L Mfg. Co., Inc.;FINISHED GOODS;Finished Goods;Apparel;Nike;K&L MANUFACTURING;K&L Manufacturing;USA
+245;Kartli Textile Ltd;Kartli Textile Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;MILTEKS;Milteks;Georgia
+246;Kim's Embroidery, Inc.;Kim'S Embroidery, Inc.;FINISHED GOODS;Finished Goods;Apparel;Nike;KIMS EMBROIDERY;Kims Embroidery;USA
+247;KITAI CO., LTD;Kitai Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;KITAI;Kitai;Japan
+248;KKN Apparel Co.,ltd;Kkn Apparel Co.,Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;NICE APPAREL;Nice Apparel;Cambodia
+249;Kunshan Sabrina Clothes Making Co., Ltd.;Kunshan Sabrina Clothes Making Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;SABRINA;Sabrina;China
+250;KUO YUEN (TR1) (CHINA);Kuo Yuen (Tr1) (China);MATERIALS;Materials;Footwear;Nike;KUO YUEN;Kuo Yuen;China
+251;KUO YUEN (VIETNAM);Kuo Yuen (Vietnam);MATERIALS;Materials;Footwear;Nike;KUO YUEN;Kuo Yuen;Vietnam
+252;KUO YUEN (VIETNAM) TAY NINH;Kuo Yuen (Vietnam) Tay Ninh;MATERIALS;Materials;Footwear;Nike;KUO YUEN;Kuo Yuen;Vietnam
+253;KURARAY CO LTD (CLARINO) (TR1) (TR1) (CHINA);Kuraray Co Ltd (Clarino) (Tr1) (Tr1) (China);MATERIALS;Materials;Footwear;Nike;KURARAY;Kuraray;China
+254;KURARAY CO LTD (CLARINO) (TR1) (TR1) (TAIWAN);Kuraray Co Ltd (Clarino) (Tr1) (Tr1) (Taiwan);MATERIALS;Materials;Footwear;Nike;KURARAY;Kuraray;Japan
+255;KURARAY CO LTD (CLARINO) (TR1) (VIETNAM);Kuraray Co Ltd (Clarino) (Tr1) (Vietnam);MATERIALS;Materials;Footwear;Nike;KURARAY;Kuraray;Vietnam
+256;League Optical(Zhongshan) Workshop Limited;League Optical(Zhongshan) Workshop Limited;FINISHED GOODS;Finished Goods;Equipment;Nike;ARTS OPTICAL;Arts Optical;China
+257;SP Apparel Inc.;Sp Apparel Inc.;FINISHED GOODS;Finished Goods;Apparel;Nike;SP APPAREL;Sp Apparel;Canada
+258;LI CHENG ENTERPRISE CO.,LTD;Li Cheng Enterprise Co.,Ltd;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;LI CHENG ENTERPRISE;Li Cheng Enterprise;Taiwan
+259;LIM SRL;Lim Srl;FINISHED GOODS;Finished Goods;Footwear;Converse;LIM;Lim;Italy
+260;LION BROTHERS FAR EAST;Lion Brothers Far East;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Apparel;Nike;LION BROTHERS;Lion Brothers;China
+261;Long Chuan Simona Footwear Co. Ltd;Long Chuan Simona Footwear Co. Ltd;FINISHED GOODS;Finished Goods;Footwear;Nike;STELLA;Stella;China
+262;Long Fa Shoes Industrial Huizhou Co., Ltd.;Long Fa Shoes Industrial Huizhou Co., Ltd.;FINISHED GOODS;Finished Goods;Footwear;Nike;DEAN SHOES;Dean Shoes;China
+263;Long Yue Shoes Industrial Hui Zhou Co.,Ltd.;Long Yue Shoes Industrial Hui Zhou Co.,Ltd.;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;DEAN SHOES;Dean Shoes;China
+264;Longchuan Somona Footwear Co.,Ltd Wuhua Branch;Longchuan Somona Footwear Co.,Ltd Wuhua Branch;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;STELLA;Stella;China
+265;Longhui Stella Footwear Co., Ltd;Longhui Stella Footwear Co., Ltd;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;STELLA;Stella;China
+266;Longway Vietnam Company Limited;Longway Vietnam Company Limited;FINISHED GOODS;Finished Goods;Equipment;Nike;LONGWAY;Longway;Vietnam
+267;LONGWELL COMPANY LTD.;Longwell Company Ltd.;FINISHED GOODS;Finished Goods;Footwear;Nike;DEAN SHOES;Dean Shoes;Vietnam
+268;Lotus Footwear Enterprises Limited Unit-2;Lotus Footwear Enterprises Limited Unit-2;FINISHED GOODS;Finished Goods;Footwear;Nike;FENG TAY;Feng Tay;India
+269;Fairway Enterprises Company Ltd (India Branch) - Unit 1;Fairway Enterprises Company Ltd (India Branch) - Unit 1;FINISHED GOODS;Finished Goods;Footwear;Nike;FENG TAY;Feng Tay;India
+270;Lucky Star Vietnam Garment Company Limited;Lucky Star Vietnam Garment Company Limited;FINISHED GOODS;Finished Goods;Apparel;Nike;LUCKY STAR;Lucky Star;Vietnam
+271;LUCKYTEX SOC TRANG VIETNAM CO., LTD;Luckytex Soc Trang Vietnam Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;TUNTEX;Tuntex;Vietnam
+272;M S STYLE TEXTILE (PVT.) LIMITED (SUNDER) - unit VI;M S Style Textile (Pvt.) Limited (Sunder) - Unit Vi;FINISHED GOODS;Finished Goods;Apparel;Nike;STYLE TEXTILE;Style Textile;Pakistan
+273;Majestic Athletic;Majestic Athletic;FINISHED GOODS;Finished Goods;Apparel;Nike;FANATICS;Fanatics;USA
+274;MANUFACTURE OF ARTISTIC BELT & ACCESSORIES CO., LTD.;Manufacture Of Artistic Belt & Accessories Co., Ltd.;FINISHED GOODS;Finished Goods;Equipment;Nike;ARTISTIC BELT AND ACCESSORIES;Artistic Belt And Accessories;Vietnam
+275;MAPLE COMPANY LIMITED;Maple Company Limited;FINISHED GOODS;Finished Goods;Apparel;Nike;RAMATEX;Ramatex;Vietnam
+276;Marbelys;Marbelys;FINISHED GOODS;Finished Goods;Apparel;Nike;MARBELYS;Marbelys;Guatemala
+277;Marbelys 2;Marbelys 2;FINISHED GOODS;Finished Goods;Apparel;Nike;MARBELYS;Marbelys;Guatemala
+278;Marchon Italia Srl a SU;Marchon Italia Srl A Su;FINISHED GOODS;Finished Goods;Equipment;Nike;MARCHON;Marchon;Italy
+279;MARVEL GARMENT CO.,LTD.;Marvel Garment Co.,Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;SHENZHOU;Shenzhou;Cambodia
+280;MAS Active Pvt Ltd - Contourline Division;Mas Active Pvt Ltd - Contourline Division;FINISHED GOODS;Finished Goods;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Sri Lanka
+281;MAS Al Safi Apparel Manufacturing LLC ;Mas Al Safi Apparel Manufacturing Llc ;FINISHED GOODS;Finished Goods;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Jordan
+282;MAS Fabrics (Private) Limited - Matrix;Mas Fabrics (Private) Limited - Matrix;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Sri Lanka
+283;MAS FABRICS (PRIVATE) LIMITED – INTIMO DIVISION;Mas Fabrics (Private) Limited – Intimo Division;MATERIALS;Materials;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Sri Lanka
+284;Mas Fabrics Pvt Ltd - Methliya;Mas Fabrics Pvt Ltd - Methliya;FINISHED GOODS;Finished Goods;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Sri Lanka
+285;MAS KREEDA  Vaanavil ;Mas Kreeda  Vaanavil ;FINISHED GOODS;Finished Goods;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Sri Lanka
+286;MAS KREEDA Balangoda ;Mas Kreeda Balangoda ;FINISHED GOODS;Finished Goods;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Sri Lanka
+287;MAS KREEDA Intimo;Mas Kreeda Intimo;FINISHED GOODS;Finished Goods;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Sri Lanka
+288;MAS KREEDA Mihintale ;Mas Kreeda Mihintale ;FINISHED GOODS;Finished Goods;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Sri Lanka
+289;MAS KREEDA Shadeline ;Mas Kreeda Shadeline ;FINISHED GOODS;Finished Goods;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Sri Lanka
+290;MAS KREEDA Synergy ;Mas Kreeda Synergy ;FINISHED GOODS;Finished Goods;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Sri Lanka
+291;MAXIM IMPRESSION LANKA (PVT) LTD;Maxim Impression Lanka (Pvt) Ltd;MATERIALS;Materials;Apparel;Nike;MAXIM;Maxim;Sri Lanka
+292;Maxim Label and Packaging Vietnam Co., Ltd;Maxim Label And Packaging Vietnam Co., Ltd;MATERIALS;Materials;Apparel;Nike;MAXIM;Maxim;Vietnam
+293;MAXIM SMART MANUFACTURING CO LTD;Maxim Smart Manufacturing Co Ltd;MATERIALS;Materials;Apparel;Nike;MAXIM;Maxim;China
+294;Maxport Limited (Viet Nam) - Thai Binh Branch;Maxport Limited (Viet Nam) - Thai Binh Branch;FINISHED GOODS;Finished Goods;Apparel;Nike;MAXPORT;Maxport;Vietnam
+295;MAXPORT LIMITED VIET NAM _ NAM DINH BRANCH MAXPORT 06;Maxport Limited Viet Nam _ Nam Dinh Branch Maxport 06;FINISHED GOODS;Finished Goods;Apparel;Nike;MAXPORT;Maxport;Vietnam
+296;MAXPORT LIMITED VIET NAM NAM DINH BRANCH MAXPORT 05;Maxport Limited Viet Nam Nam Dinh Branch Maxport 05;FINISHED GOODS;Finished Goods;Apparel;Nike;MAXPORT;Maxport;Vietnam
+297;MEN CHUEN VIETNAM CO.,  LTD.;Men Chuen Vietnam Co.,  Ltd.;MATERIALS;Materials;Apparel;Nike;MEN CHUEN;Men Chuen;Vietnam
+298;Milteks Tekstil Sanayi ve Ticaret A S;Milteks Tekstil Sanayi Ve Ticaret A S;FINISHED GOODS;Finished Goods;Apparel;Nike;MILTEKS;Milteks;Turkey
+299;Milteks Tekstil Sanayi Ve Ticaret A.S. Ajara Textile Ltd;Milteks Tekstil Sanayi Ve Ticaret A.S. Ajara Textile Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;MILTEKS;Milteks;Georgia
+300;Minone Enterprises Co Ltd;Minone Enterprises Co Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;MINONE;Minone;Thailand
+301;NAM THIEN COMPANY LIMITED;Nam Thien Company Limited;FINISHED GOODS;Finished Goods;Apparel;Nike;SOUTH ISLAND;South Island;Vietnam
+302;NAN YANG;Nan Yang;MATERIALS;Materials;Apparel;Nike;NAN YANG;Nan Yang;Thailand
+303;Nan Yang Garment;Nan Yang Garment;FINISHED GOODS;Finished Goods;Apparel;Nike;NAN YANG;Nan Yang;Thailand
+304;NAN YANG GARMENT CO., LTD.;Nan Yang Garment Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;NAN YANG;Nan Yang;Thailand
+305;Nan Yang Garment Co., Ltd.;Nan Yang Garment Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;NAN YANG;Nan Yang;Thailand
+306;NAN YANG GARMENT CO.,LTD;Nan Yang Garment Co.,Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;NAN YANG;Nan Yang;Thailand
+307;Nantong Nafung Gym Equipment Co.,Ltd;Nantong Nafung Gym Equipment Co.,Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;NNG;Nng;China
+308;National Emblem Wang Chu Embroidery Co.;National Emblem Wang Chu Embroidery Co.;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Apparel;Nike;NATIONAL EMBLEM;National Emblem;Taiwan
+309;NICE APPAREL COMPANY LIMITED;Nice Apparel Company Limited;FINISHED GOODS;Finished Goods;Apparel;Nike;NICE APPAREL;Nice Apparel;Thailand
+310;NICE APPAREL COMPANY LIMITED;Nice Apparel Company Limited;FINISHED GOODS;Finished Goods;Apparel;Nike;NICE APPAREL;Nice Apparel;Thailand
+311;Nice Apparel Company Limited Branch Chumphae;Nice Apparel Company Limited Branch Chumphae;FINISHED GOODS;Finished Goods;Apparel;Nike;NICE APPAREL;Nice Apparel;Thailand
+312;Ningbo Bell Garment Industrial Co. Ltd;Ningbo Bell Garment Industrial Co. Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;NINGBO BELL;Ningbo Bell;China
+313;Ningbo Eastex;Ningbo Eastex;FINISHED GOODS;Finished Goods;Apparel;Nike;NINGBO EASTEX;Ningbo Eastex;China
+314;Ningbo Huayao Textile co.,ltd;Ningbo Huayao Textile Co.,Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;SHENZHOU;Shenzhou;China
+315;NINGBO MITSUBANA APPERAL CO., LTD;Ningbo Mitsubana Apperal Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Converse;NINGBO MITSUBANA;Ningbo Mitsubana;China
+316;Ningbo Shenzhou Knitting Co. Ltd;Ningbo Shenzhou Knitting Co. Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;SHENZHOU;Shenzhou;China
+317;NINGBO SHENZHOU KNITTING CO. LTD. (PRINTING MILL & MC);Ningbo Shenzhou Knitting Co. Ltd. (Printing Mill & Mc);FINISHED GOODS;Finished Goods;Apparel;Nike;SHENZHOU;Shenzhou;China
+318;Ningbo Shenzhou Knitting Co. Ltd. -#6 Garment Factory;Ningbo Shenzhou Knitting Co. Ltd. -#6 Garment Factory;FINISHED GOODS;Finished Goods;Apparel;Nike;SHENZHOU;Shenzhou;China
+319;NINGBO SHENZHOU KNITTING CO., LTD;Ningbo Shenzhou Knitting Co., Ltd;MATERIALS;Materials;Apparel;Nike;SHENZHOU;Shenzhou;China
+320;NV Apparel Company Limited;Nv Apparel Company Limited;FINISHED GOODS;Finished Goods;Apparel;Nike;NICE APPAREL;Nice Apparel;Vietnam
+321;Olive Apparel (Cambodia) Co., Ltd;Olive Apparel (Cambodia) Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;RAMATEX;Ramatex;Cambodia
+322;Oregon Screen Impressions, Inc.;Oregon Screen Impressions, Inc.;FINISHED GOODS;Finished Goods;Apparel;Nike;OREGON SCREEN IMPRESSIONS;Oregon Screen Impressions;USA
+323;ORIENTAL GARMENT AN GIANG CO LTD;Oriental Garment An Giang Co Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;ORIENTAL GARMENT;Oriental Garment;Vietnam
+324;Oriental Garment Co., Ltd – Nongbuadang;Oriental Garment Co., Ltd – Nongbuadang;FINISHED GOODS;Finished Goods;Apparel;Nike;ORIENTAL GARMENT;Oriental Garment;Thailand
+325;ORIGINAL APPAREL PRIVATE LIMITED;Original Apparel Private Limited;FINISHED GOODS;Finished Goods;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Sri Lanka
+326;Pacific Athletic Wear, Inc. ;Pacific Athletic Wear, Inc. ;FINISHED GOODS;Finished Goods;Apparel;Nike;PACIFIC ATHLETIC WEAR;Pacific Athletic Wear;USA
+327;PAIHO (DONGGUAN 3);Paiho (Dongguan 3);MATERIALS;Materials;Footwear;Nike;PAIHO GROUP;Paiho Group;China
+328;PAIHO (TAIWAN)- Knitting;Paiho (Taiwan)- Knitting;MATERIALS;Materials;Footwear;Nike;PAIHO GROUP;Paiho Group;Taiwan
+329;PAIHO (VIETNAM);Paiho (Vietnam);MATERIALS;Materials;Footwear;Nike;PAIHO GROUP;Paiho Group;Vietnam
+330;PAIHO (WUXI 1);Paiho (Wuxi 1);MATERIALS;Materials;Apparel;Nike;PAIHO GROUP;Paiho Group;China
+331;Papillion Textile (Cambodia) Co., Ltd;Papillion Textile (Cambodia) Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;TUNTEX;Tuntex;Cambodia
+332;Paramount Apparel International, LLC.;Paramount Apparel International, Llc.;FINISHED GOODS;Finished Goods;Apparel;Nike;PARAMOUNT;Paramount;USA
+333;Paramount Apparel LLC. Winona MO;Paramount Apparel Llc. Winona Mo;FINISHED GOODS;Finished Goods;Apparel;Nike;PARAMOUNT;Paramount;USA
+334;Paxar Packaging Guangzhou Ltd.;Paxar Packaging Guangzhou Ltd.;MATERIALS;Materials;Apparel;Nike;AVERY DENNISON;Avery Dennison;China
+335;PETTENATI;Pettenati;FINISHED GOODS;Finished Goods;Apparel;Nike;PETTENATI;Pettenati;Brazil
+336;PETTENATI CENTRO AMERICA S.A. DE C.V.;Pettenati Centro America S.A. De C.V.;MATERIALS;Materials;Apparel;Nike;PETTENATI;Pettenati;El Salvador
+337;PHUC TAI TAY NINH CO., LTD;Phuc Tai Tay Ninh Co., Ltd;FINISHED GOODS;Finished Goods;Footwear;Nike;SPORTS GEAR;Sports Gear;Vietnam
+338;Pilotknit Sport Wear Co.,ltd.;Pilotknit Sport Wear Co.,Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;PILOT;Pilot;Thailand
+339;Pine Tree Company for Textile Manufacturing PSC;Pine Tree Company For Textile Manufacturing Psc;FINISHED GOODS;Finished Goods;Apparel;Nike;RAMATEX;Ramatex;Jordan
+340;Pinghu Lipai Bags and Luggage Co., Ltd.;Pinghu Lipai Bags And Luggage Co., Ltd.;FINISHED GOODS;Finished Goods;Equipment;Nike;PINGHU LIPAI;Pinghu Lipai;China
+341;Pingxiang City Guangxuan Footwear Co. Ltd.;Pingxiang City Guangxuan Footwear Co. Ltd.;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;SHOETOWN;Shoetown;China
+342;PMI Joinease plastic & metal products;Pmi Joinease Plastic & Metal Products;FINISHED GOODS;Finished Goods;Equipment;Nike;PMI JOINEASE;Pmi Joinease;China
+343;PONY LEATHER CORPORATION (TAIWAN);Pony Leather Corporation (Taiwan);MATERIALS;Materials;Footwear;Nike;PONY LEATHER CORPORATION;Pony Leather Corporation;Taiwan
+344;Pou Chen Corporation;Pou Chen Corporation;FINISHED GOODS;Finished Goods;Footwear;Nike;POU CHEN;Pou Chen;Taiwan
+345;Pou Chen Vietnam Enterprise Ltd.;Pou Chen Vietnam Enterprise Ltd.;FINISHED GOODS;Finished Goods;Footwear;Nike;POU CHEN;Pou Chen;Vietnam
+346;POVOLO SRL;Povolo Srl;FINISHED GOODS;Finished Goods;Apparel;Nike;POVOLO;Povolo;Italy
+347;PPSEC COMPANY LIMITED;Ppsec Company Limited;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Apparel;Nike;SEC ACCESSORIES;Sec Accessories;Cambodia
+348;PRIME ASIA (CHINA);Prime Asia (China);MATERIALS;Materials;Footwear;Nike;PRIME ASIA;Prime Asia;China
+349;PRIME ASIA (VIETNAM);Prime Asia (Vietnam);MATERIALS;Materials;Footwear;Nike;PRIME ASIA;Prime Asia;Vietnam
+350;Pro Kingtex Vietnam Co., Ltd;Pro Kingtex Vietnam Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;EAGLE NICE;Eagle Nice;Vietnam
+351;PROMAX TEXTILE (VIETNAM) CO. LTD;Promax Textile (Vietnam) Co. Ltd;MATERIALS;Materials;Apparel;Nike;PROMAX TEXTILE;Promax Textile;Vietnam
+352;PT Adis Dimension Footwear;Pt Adis Dimension Footwear;FINISHED GOODS;Finished Goods;Footwear;Nike;SHOETOWN;Shoetown;Indonesia
+353;PT Batang Apparel Indonesia;Pt Batang Apparel Indonesia;FINISHED GOODS;Finished Goods;Apparel;Nike;KUKDONG;Kukdong;Indonesia
+354;PT Chang Shin Indonesia;Pt Chang Shin Indonesia;FINISHED GOODS;Finished Goods;Footwear;Nike;CHANGSHIN;Changshin;Indonesia
+355;PT DAEWON ECO INDONESIA;Pt Daewon Eco Indonesia;MATERIALS;Materials;Footwear;Nike;DAEWON;Daewon;Indonesia
+356;PT Dayup Indo;Pt Dayup Indo;FINISHED GOODS;Finished Goods;Equipment;Nike;DAYUP;Dayup;Indonesia
+357;PT Eagle Nice Indonesia;Pt Eagle Nice Indonesia;FINISHED GOODS;Finished Goods;Apparel;Nike;EAGLE NICE;Eagle Nice;Indonesia
+358;PT ECLAT TEXTILE INTERNATIONAL;Pt Eclat Textile International;FINISHED GOODS;Finished Goods;Apparel;Nike;ECLAT;Eclat;Indonesia
+359;PT KMK Global Sports / K1;Pt Kmk Global Sports / K1;FINISHED GOODS;Finished Goods;Footwear;Nike;KMK;Kmk;Indonesia
+360;PT Lucky Textile Semarang Demak;Pt Lucky Textile Semarang Demak;FINISHED GOODS;Finished Goods;Apparel;Nike;TUNTEX;Tuntex;Indonesia
+361;PT Marel Sukses Pratama;Pt Marel Sukses Pratama;FINISHED GOODS;Finished Goods;Equipment;Converse;PTM;Ptm;Indonesia
+362;PT MAS ARYA INDONESIA;Pt Mas Arya Indonesia;FINISHED GOODS;Finished Goods;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Indonesia
+363;PT Mercindo Global Manufaktur;Pt Mercindo Global Manufaktur;FINISHED GOODS;Finished Goods;Equipment;Nike;MERCINDO;Mercindo;Indonesia
+364;PT Mitra Garindo Perkasa;Pt Mitra Garindo Perkasa;FINISHED GOODS;Finished Goods;Apparel;Nike;MAP;Map;Indonesia
+365;PT Morich Indo Fashion;Pt Morich Indo Fashion;FINISHED GOODS;Finished Goods;Apparel;Nike;MORICH;Morich;Indonesia
+366;PT Nikomas Gemilang;Pt Nikomas Gemilang;FINISHED GOODS;Finished Goods;Footwear;Nike;POU CHEN;Pou Chen;Indonesia
+367;PT PAXAR INDONESIA (AVERY DENNISON GROUP);Pt Paxar Indonesia (Avery Dennison Group);MATERIALS;Materials;Apparel;Nike;AVERY DENNISON;Avery Dennison;Indonesia
+368;PT Pratama Abadi Industri;Pt Pratama Abadi Industri;FINISHED GOODS;Finished Goods;Footwear;Nike;PRATAMA;Pratama;Indonesia
+369;PT PRATAMA ABADI INDUSTRI;Pt Pratama Abadi Industri;FINISHED GOODS;Finished Goods;Footwear;Nike;PRATAMA;Pratama;Indonesia
+370;PT PRATAMA ABADI INDUSTRI;Pt Pratama Abadi Industri;FINISHED GOODS;Finished Goods;Footwear;Nike;PRATAMA;Pratama;Indonesia
+371;PT Rodeo Prima Jaya;Pt Rodeo Prima Jaya;FINISHED GOODS;Finished Goods;Apparel;Nike;PRIMA;Prima;Indonesia
+372;PT SELALU CINTA INDONESIA;Pt Selalu Cinta Indonesia;FINISHED GOODS;Finished Goods;Footwear;Nike;KMK;Kmk;Indonesia
+373;PT Semarang Garment;Pt Semarang Garment;FINISHED GOODS;Finished Goods;Apparel;Nike;KUKDONG;Kukdong;Indonesia
+374;PT Shoetown Kasokandel Indonesia;Pt Shoetown Kasokandel Indonesia;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;SHOETOWN;Shoetown;Indonesia
+375;PT Sport Glove Indonesia ;Pt Sport Glove Indonesia ;FINISHED GOODS;Finished Goods;Equipment;Nike;PT SPORT;Pt Sport;Indonesia
+376;PT Tong Hong Tannery;Pt Tong Hong Tannery;MATERIALS;Materials;Footwear;Nike;TONG HONG;Tong Hong;Indonesia
+377;PT Trigoldenstar Wisesa;Pt Trigoldenstar Wisesa;FINISHED GOODS;Finished Goods;Apparel;Nike;TRIGOLDENSTAR;Trigoldenstar;Indonesia
+378;PT Tuntex Garment Indonesia-TGR;Pt Tuntex Garment Indonesia-Tgr;FINISHED GOODS;Finished Goods;Apparel;Nike;TUNTEX;Tuntex;Indonesia
+379;PT Victory Chingluh Indonesia;Pt Victory Chingluh Indonesia;FINISHED GOODS;Finished Goods;Footwear;Nike;CHING LUH;Ching Luh;Indonesia
+380;PT Victory Chingluh Indonesia;Pt Victory Chingluh Indonesia;FINISHED GOODS;Finished Goods;Footwear;Nike;CHING LUH;Ching Luh;Indonesia
+381;PT YC TEC INDONESIA;Pt Yc Tec Indonesia;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;YC TEC CORPORATION;Yc Tec Corporation;Indonesia
+382;PT. CCH INDONESIA;Pt. Cch Indonesia;FINISHED GOODS;Finished Goods;Apparel;Nike;CHUAN CHENG;Chuan Cheng;Indonesia
+383;PT. CHANGSHIN  REKSA JAYA;Pt. Changshin  Reksa Jaya;FINISHED GOODS;Finished Goods;Footwear;Nike;CHANGSHIN;Changshin;Indonesia
+384;PT. CHING LUH INDONESIA;Pt. Ching Luh Indonesia;FINISHED GOODS;Finished Goods;Footwear;Nike;CHING LUH;Ching Luh;Indonesia
+385;PT. DEAN SHOES;Pt. Dean Shoes;FINISHED GOODS;Finished Goods;Footwear;Nike;DEAN SHOES;Dean Shoes;Indonesia
+386;PT. Feng Tay Indonesia Enterprises;Pt. Feng Tay Indonesia Enterprises;FINISHED GOODS;Finished Goods;Footwear;Nike;FENG TAY;Feng Tay;Indonesia
+387;PT. Formosa Bag Indonesia;Pt. Formosa Bag Indonesia;FINISHED GOODS;Finished Goods;Equipment;Nike;FORMOSA;Formosa;Indonesia
+388;PT. Gelindo Garmentama;Pt. Gelindo Garmentama;FINISHED GOODS;Finished Goods;Apparel;Nike;EAGLE NICE;Eagle Nice;Indonesia
+389;PT. Grand Best Indonesia;Pt. Grand Best Indonesia;FINISHED GOODS;Finished Goods;Apparel;Nike;TUNTEX;Tuntex;Indonesia
+390;PT. Kanindo Makmur Jaya;Pt. Kanindo Makmur Jaya;FINISHED GOODS;Finished Goods;Equipment;Nike;KANAAN;Kanaan;Indonesia
+391;PT. POU YUEN INDONESIA;Pt. Pou Yuen Indonesia;FINISHED GOODS;Finished Goods;Footwear;Nike;POU CHEN;Pou Chen;Indonesia
+392;PT. SHOETOWN LIGUNG INDONESIA;Pt. Shoetown Ligung Indonesia;FINISHED GOODS;Finished Goods;Footwear;Nike;SHOETOWN;Shoetown;Indonesia
+393;PT. TKG TAEKWANG INDONESIA;Pt. Tkg Taekwang Indonesia;FINISHED GOODS;Finished Goods;Footwear;Nike;TAEKWANG;Taekwang;Indonesia
+394;PT.WONEEL MIDAS LEATHERS;Pt.Woneel Midas Leathers;FINISHED GOODS;Finished Goods;Equipment;Nike;PT. Woneel Midas Leathers;Pt. Woneel Midas Leathers;Indonesia
+395;Qingdao Changshin Shoes Co., Ltd.;Qingdao Changshin Shoes Co., Ltd.;FINISHED GOODS;Finished Goods;Footwear;Nike;CHANGSHIN;Changshin;China
+396;Qingdao Changshin Shoes Co., LTD. Jimo Factory;Qingdao Changshin Shoes Co., Ltd. Jimo Factory;FINISHED GOODS;Finished Goods;Footwear;Nike;CHANGSHIN;Changshin;China
+397;Qingyuan City Liannan Yao Nationality Autonomous County Rongfang Footwear;Qingyuan City Liannan Yao Nationality Autonomous County Rongfang Footwear;FINISHED GOODS;Finished Goods;Footwear;Nike;SHOETOWN;Shoetown;China
+398;QUANG VIET ENTERPRISE CO., LTD;Quang Viet Enterprise Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;QUANG VIET;Quang Viet;Vietnam
+399;Quanzhou  Fengze Yisheng Leather Co;Quanzhou  Fengze Yisheng Leather Co;FINISHED GOODS;Finished Goods;Equipment;Converse;QFY;Qfy;China
+400;Quanzhou Unison Light Industrial Manufacturing Co. Ltd.;Quanzhou Unison Light Industrial Manufacturing Co. Ltd.;FINISHED GOODS;Finished Goods;Equipment;Nike;QUANZHOU UNISON LIGHT INDUSTRIAL;Quanzhou Unison Light Industrial;China
+401;R. A. INTERTRADING S. A.;R. A. Intertrading S. A.;FINISHED GOODS;Finished Goods;Apparel;Nike;RA INTERTRADING;Ra Intertrading;Argentina
+402;Ramatex Apparel Suzhou Ltd.;Ramatex Apparel Suzhou Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;RAMATEX;Ramatex;China
+403;Ramatex Printing Garment (Suzhou) Ltd;Ramatex Printing Garment (Suzhou) Ltd;MATERIALS;Materials;Apparel;Nike;RAMATEX;Ramatex;China
+404;Ramatex Textiles Industrial Sdn Bhd;Ramatex Textiles Industrial Sdn Bhd;MATERIALS;Materials;Apparel;Nike;RAMATEX;Ramatex;Malaysia
+405;Regent Garment Factory Ltd ;Regent Garment Factory Ltd ;FINISHED GOODS;Finished Goods;Apparel;Nike;CRYSTAL;Crystal;Vietnam
+406;Regina Miracle International Vietnam Co., Ltd;Regina Miracle International Vietnam Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;REGINA MIRACLE;Regina Miracle;Vietnam
+407;Regina Miracle Intimate Apparel Shenzhen Limited;Regina Miracle Intimate Apparel Shenzhen Limited;FINISHED GOODS;Finished Goods;Apparel;Nike;REGINA MIRACLE;Regina Miracle;China
+408;RIETVELD SERIGRAFIE BV;Rietveld Serigrafie Bv;FINISHED GOODS;Finished Goods;Apparel;Nike;RIETVELD;Rietveld;Netherlands
+409;Ripon Athletic;Ripon Athletic;FINISHED GOODS;Finished Goods;Apparel;Nike;RIPON;Ripon;USA
+410;RJ Liebe Athletic Lettering Co.;Rj Liebe Athletic Lettering Co.;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Apparel;Nike;RJ LIEBE ATHLETIC LETTERING;Rj Liebe Athletic Lettering;USA
+411;Robinson Manufacturing Company, Dayton;Robinson Manufacturing Company, Dayton;FINISHED GOODS;Finished Goods;Apparel;Nike;ROBINSON;Robinson;USA
+412;Rollsport Vietnam Footwear Limited;Rollsport Vietnam Footwear Limited;FINISHED GOODS;Finished Goods;Footwear;Nike;HUALI;Huali;Vietnam
+413;ROLLSPORT VIETNAM FOOTWEAR LIMTED;Rollsport Vietnam Footwear Limted;MATERIALS;Materials;Footwear;Nike;GREAT ASCENT TRADING LIMITED;Great Ascent Trading Limited;Vietnam
+414;RS/Tupa Ind. De Plastico Ltda;Rs/Tupa Ind. De Plastico Ltda;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;RS TUPA INDUSTRIA DE PLASTICOS;Rs Tupa Industria De Plasticos;Brazil
+415;Sabrina Cambodia Garment Manufacturing;Sabrina Cambodia Garment Manufacturing;FINISHED GOODS;Finished Goods;Apparel;Nike;SABRINA;Sabrina;Cambodia
+416;SADESA THAILAND (KABINBURI);Sadesa Thailand (Kabinburi);MATERIALS;Materials;Footwear;Nike;SADESA;Sadesa;Thailand
+417;SADESA THAILAND Sena;Sadesa Thailand Sena;MATERIALS;Materials;Footwear;Nike;SADESA;Sadesa;Thailand
+418;Saigon Daryar Plastic Co.,Ltd;Saigon Daryar Plastic Co.,Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;SAIGON DARYAR;Saigon Daryar;Vietnam
+419;SAMBU FINE CHEMICAL CO LTD (INDONESIA);Sambu Fine Chemical Co Ltd (Indonesia);MATERIALS;Materials;Footwear;Nike;SAMBU FINE CHEMICAL;Sambu Fine Chemical;Indonesia
+420;SAMBU FINE CHEMICAL CO LTD (KOREA);Sambu Fine Chemical Co Ltd (Korea);MATERIALS;Materials;Footwear;Nike;SAMBU FINE CHEMICAL;Sambu Fine Chemical;South Korea
+421;SAMBU FINE CHEMICAL CO LTD (VIETNAM);Sambu Fine Chemical Co Ltd (Vietnam);MATERIALS;Materials;Footwear;Nike;SAMBU FINE CHEMICAL;Sambu Fine Chemical;Vietnam
+422;SAMIL TEXTILE CO LTD (Korea);Samil Textile Co Ltd (Korea);MATERIALS;Materials;Footwear;Nike;SAMIL;Samil;South Korea
+423;SAN FANG (TR1) (CHINA);San Fang (Tr1) (China);MATERIALS;Materials;Footwear;Nike;SAN FANG;San Fang;China
+424;SAN FANG (TR1) (INDONESIA);San Fang (Tr1) (Indonesia);MATERIALS;Materials;Footwear;Nike;SAN FANG;San Fang;Indonesia
+425;SAN FANG (TR1) (TAIWAN);San Fang (Tr1) (Taiwan);MATERIALS;Materials;Footwear;Nike;SAN FANG;San Fang;Taiwan
+426;SAN FANG (TR1) (VIETNAM);San Fang (Tr1) (Vietnam);MATERIALS;Materials;Footwear;Nike;SAN FANG;San Fang;Vietnam
+427;TKG TAEKWANG VINA JOINT STOCK COMPANY-BRANCH 3;Tkg Taekwang Vina Joint Stock Company-Branch 3;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;TAEKWANG;Taekwang;Vietnam
+428;Sarno Display S.r.l.;Sarno Display S.R.L.;FINISHED GOODS;Finished Goods;Equipment;Nike;GATTO;Gatto;Italy
+429;Sato knit Co., Ltd;Sato Knit Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;SATO KNIT;Sato Knit;Japan
+430;Scavi Hue Company;Scavi Hue Company;FINISHED GOODS;Finished Goods;Apparel;Nike;SCAVI;Scavi;Vietnam
+431;SELF MAGLIERIA SRL;Self Maglieria Srl;FINISHED GOODS;Finished Goods;Apparel;Nike;SELF MAGLIERIA;Self Maglieria;Italy
+432;SeoHeung Co., Ltd. (3D Printer Center);Seoheung Co., Ltd. (3D Printer Center);MATERIALS;Materials;Footwear;Nike;SEOHEUNG;Seoheung;South Korea
+433;Sewing Jonah;Sewing Jonah;FINISHED GOODS;Finished Goods;Apparel;Nike;SEWING JONAH;Sewing Jonah;Japan
+434;SEYANG CORPORATION VIETNAM;Seyang Corporation Vietnam;FINISHED GOODS;Finished Goods;Apparel;Nike;SEYANG;Seyang;Vietnam
+435;SFO Apparel Inc. (Sewing & Cutting);Sfo Apparel Inc. (Sewing & Cutting);FINISHED GOODS;Finished Goods;Apparel;Nike;SFO APPAREL;Sfo Apparel;USA
+436;Shaanxi White River Apparel CO., LTD.;Shaanxi White River Apparel Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;SPORTS CITY;Sports City;China
+437;SHAHI EXPORTS PVT LTD UNIT 26;Shahi Exports Pvt Ltd Unit 26;FINISHED GOODS;Finished Goods;Apparel;Nike;SHAHI;Shahi;India
+438;SHAN BEEN JEOU INDUSTRIAL CO LTD (TAIWAN);Shan Been Jeou Industrial Co Ltd (Taiwan);MATERIALS;Materials;Footwear;Nike;SHAN BEEN;Shan Been;Taiwan
+439;Shandong Yuanchenghe Garment Co.,Ltd;Shandong Yuanchenghe Garment Co.,Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;FAR EASTERN;Far Eastern;China
+440;ShangGao Yisen Industry Co. Ltd.;Shanggao Yisen Industry Co. Ltd.;FINISHED GOODS;Finished Goods;Footwear;Nike;POU CHEN;Pou Chen;China
+441;Shao Yang County SteIIa Footwear LTD ;Shao Yang County Steiia Footwear Ltd ;FINISHED GOODS;Finished Goods;Footwear;Nike;STELLA;Stella;China
+442;ShaoYang LianTai SQ HanShou Upper Facility;Shaoyang Liantai Sq Hanshou Upper Facility;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;STELLA;Stella;China
+443;SHAOYANG STELLA FOOTWEAR COMPANY LIMITED;Shaoyang Stella Footwear Company Limited;FINISHED GOODS;Finished Goods;Footwear;Nike;STELLA;Stella;China
+444;SHENZHEN PENGYIFA INDUSTRIAL CO, LTD;Shenzhen Pengyifa Industrial Co, Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;SHENZHEN PENGYIFA;Shenzhen Pengyifa;China
+445;Shinhan Ind Co., Ltd;Shinhan Ind Co., Ltd;MATERIALS;Materials;Apparel;Converse;SHINHAN;Shinhan;South Korea
+446;SHINTA WOOSUNG PT (INDONESIA);Shinta Woosung Pt (Indonesia);MATERIALS;Materials;Footwear;Nike;SHINTA WOOSUNG;Shinta Woosung;Indonesia
+447;SHIXING TIAN HE GARMENTS CO. LTD.;Shixing Tian He Garments Co. Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;WONG LUEN;Wong Luen;China
+448;Shoetown Footwear Co.,Ltd;Shoetown Footwear Co.,Ltd;FINISHED GOODS;Finished Goods;Footwear;Nike;SHOETOWN;Shoetown;China
+449;Shoetown Hunan FOOTWEAR CO.,LTD;Shoetown Hunan Footwear Co.,Ltd;FINISHED GOODS;Finished Goods;Footwear;Nike;SHOETOWN;Shoetown;China
+450;Shoetown JinTan;Shoetown Jintan;FINISHED GOODS;Finished Goods;Footwear;Nike;SHOETOWN;Shoetown;China
+451;Shoetown Lei Zhou Footwear Co., Ltd;Shoetown Lei Zhou Footwear Co., Ltd;MATERIALS;Materials;Footwear;Nike;SHOETOWN FOOTWEAR CO LTD;Shoetown Footwear Co Ltd;China
+452;Shoetown Quan Zhou Footwear Co., Ltd;Shoetown Quan Zhou Footwear Co., Ltd;MATERIALS;Materials;Footwear;Nike;SHOETOWN FOOTWEAR CO LTD;Shoetown Footwear Co Ltd;China
+453;Sidney Apparels LLC;Sidney Apparels Llc;FINISHED GOODS;Finished Goods;Apparel;Nike;QUANG VIET;Quang Viet;Jordan
+454;SIGMA VIETNAM INDUSTRIAL CO.,LTD;Sigma Vietnam Industrial Co.,Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;SIGMA;Sigma;Vietnam
+455;SIMONA TANNING INC (CHINA);Simona Tanning Inc (China);MATERIALS;Materials;Footwear;Nike;SIMONA TANNING;Simona Tanning;China
+456;SMS Konfeksiyon Sanayi ve Ticaret A.S;Sms Konfeksiyon Sanayi Ve Ticaret A.S;FINISHED GOODS;Finished Goods;Apparel;Nike;YESIM;Yesim;Turkey
+457;SNP CO.,LTD.;Snp Co.,Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;SPORTS CITY;Sports City;Vietnam
+458;SON KHA COMPANY LIMITED;Son Kha Company Limited;FINISHED GOODS;Finished Goods;Apparel;Nike;SOUTH ISLAND;South Island;Vietnam
+459;Song Hong - Nghia Hung Garment Joint Stock Company;Song Hong - Nghia Hung Garment Joint Stock Company;FINISHED GOODS;Finished Goods;Apparel;Nike;SONG HONG NGHIA HUNG COMPANY;Song Hong Nghia Hung Company;Vietnam
+460;Song Hong Garment Factory- Factory 11,12,13,14;Song Hong Garment Factory- Factory 11,12,13,14;FINISHED GOODS;Finished Goods;Apparel;Nike;SONG HONG;Song Hong;Vietnam
+461;Song Hong Garment JSC - Factory 15.16.17.18;Song Hong Garment Jsc - Factory 15.16.17.18;FINISHED GOODS;Finished Goods;Apparel;Nike;SONG HONG;Song Hong;Vietnam
+462;Song Lin Garment Sdn Bhd;Song Lin Garment Sdn Bhd;FINISHED GOODS;Finished Goods;Apparel;Nike;RAMATEX;Ramatex;Malaysia
+463;SongSen Garment Suzhou Ltd;Songsen Garment Suzhou Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;RAMATEX;Ramatex;China
+464;South Island Garment Sdn. Bhd.;South Island Garment Sdn. Bhd.;FINISHED GOODS;Finished Goods;Apparel;Nike;SOUTH ISLAND;South Island;Malaysia
+465;Southern Apparel Contractors S.A. The Arena;Southern Apparel Contractors S.A. The Arena;FINISHED GOODS;Finished Goods;Apparel;Nike;TEGRA;Tegra;Honduras
+466;Sportek;Sportek;FINISHED GOODS;Finished Goods;Footwear;Nike;DIAMANT;Diamant;Bosnia
+467;STANWELL-EXPAN CO. LTD;Stanwell-Expan Co. Ltd;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Apparel;Nike;STANWELL-EXPAN;Stanwell-Expan;Taiwan
+468;Staples Promotional Products;Staples Promotional Products;FINISHED GOODS;Finished Goods;Apparel;Nike;STAPLES CONTRACT AND COMMERCIAL;Staples Contract And Commercial;USA
+469;Staples Promotional Products;Staples Promotional Products;FINISHED GOODS;Finished Goods;Apparel;Nike;STAPLES CONTRACT AND COMMERCIAL;Staples Contract And Commercial;USA
+470;Sterling Apparel Manufacturing L.L.C. Sahab;Sterling Apparel Manufacturing L.L.C. Sahab;FINISHED GOODS;Finished Goods;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Jordan
+471;STRETCHLINE;Stretchline;MATERIALS;Materials;Apparel;Nike;STRETCHLINE;Stretchline;Sri Lanka
+472;Stretchline (Zhongshan) Limited;Stretchline (Zhongshan) Limited;MATERIALS;Materials;Apparel;Nike;STRETCHLINE;Stretchline;China
+473;Styldea SRL;Styldea Srl;FINISHED GOODS;Finished Goods;Footwear;Converse;STYLDEA;Styldea;Italy
+474;Style Raiwind;Style Raiwind;FINISHED GOODS;Finished Goods;Apparel;Nike;STYLE TEXTILE;Style Textile;Pakistan
+475;Style Textile IV;Style Textile Iv;FINISHED GOODS;Finished Goods;Apparel;Nike;STYLE TEXTILE;Style Textile;Pakistan
+476;Style Textile Pvt Ltd.;Style Textile Pvt Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;STYLE TEXTILE;Style Textile;Pakistan
+477;Style Textile(Pvt.) Limited, (Manga);Style Textile(Pvt.) Limited, (Manga);MATERIALS;Materials;Apparel;Nike;STYLE TEXTILE;Style Textile;Pakistan
+478;SUMBER MASANDA JAYA, PT;Sumber Masanda Jaya, Pt;FINISHED GOODS;Finished Goods;Footwear;Nike;PRATAMA;Pratama;Indonesia
+479;Suning County Zhongyuan Textile Co.,Ltd.;Suning County Zhongyuan Textile Co.,Ltd.;MATERIALS;Materials;Footwear;Converse;HAIAN;Haian;China
+480;SUNNY JET HOSIERY CO., LIMITED;Sunny Jet Hosiery Co., Limited;FINISHED GOODS;Finished Goods;Apparel;Nike;SUNNY JET;Sunny Jet;China
+481;Suqian Kelly Textile co.,ltd;Suqian Kelly Textile Co.,Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;SUQIAN KELLY;Suqian Kelly;China
+482;Suzhou Blue Seagull Fashion Co., Ltd;Suzhou Blue Seagull Fashion Co., Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;SUZHOU BLUE SEAGULL FASHION;Suzhou Blue Seagull Fashion;China
+483;TKG TAEKWANG CAN THO COMPANY LIMITED;Tkg Taekwang Can Tho Company Limited;FINISHED GOODS;Finished Goods;Footwear;Nike;TAEKWANG;Taekwang;Vietnam
+484;TKG TAEKWANG VINA JOINT STOCK COMPANY BRANCH 2;Tkg Taekwang Vina Joint Stock Company Branch 2;FINISHED GOODS;Finished Goods;Footwear;Nike;TAEKWANG;Taekwang;Vietnam
+485;TKG TAEKWANG VINA JOINT STOCK COMPANY-MY THO BRANCH;Tkg Taekwang Vina Joint Stock Company-My Tho Branch;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;TAEKWANG;Taekwang;Vietnam
+486;TAEKWANG INDUSTRY CO., LTD.;Taekwang Industry Co., Ltd.;FINISHED GOODS;Finished Goods;Footwear;Nike;TAEKWANG;Taekwang;South Korea
+487;Tai Wah Garments Industry Sdn Bhd Kulai Jaya;Tai Wah Garments Industry Sdn Bhd Kulai Jaya;FINISHED GOODS;Finished Goods;Apparel;Nike;RAMATEX;Ramatex;Malaysia
+488;Taichung Shuihing Label Weaving Co., Ltd.;Taichung Shuihing Label Weaving Co., Ltd.;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Apparel;Nike;AVERY DENNISON;Avery Dennison;Taiwan
+489;Taitat Putra Rejeki;Taitat Putra Rejeki;FINISHED GOODS;Finished Goods;Equipment;Converse;TPR;Tpr;Indonesia
+490;TCS SRL;Tcs Srl;FINISHED GOODS;Finished Goods;Apparel;Nike;TCS;Tcs;Italy
+491;Team Edition Apparel;Team Edition Apparel;FINISHED GOODS;Finished Goods;Apparel;Nike;TEAM EDITION;Team Edition;USA
+492;TEIJIN CORDLEY LTD (TAIWAN OKAHATA CO LTD) (JAPAN);Teijin Cordley Ltd (Taiwan Okahata Co Ltd) (Japan);MATERIALS;Materials;Footwear;Nike;TEIJIN CORDLEY;Teijin Cordley;Japan
+493;Texlan Center Private Limited;Texlan Center Private Limited;FINISHED GOODS;Finished Goods;Equipment;Nike;INTERLOOP;Interloop;Sri Lanka
+494;Textil H.J.Hering Ltda;Textil H.J.Hering Ltda;FINISHED GOODS;Finished Goods;Apparel;Nike;TEXTIL H.J. HERING;Textil H.J. Hering;Brazil
+495;TEXTILES INTERNATIONAL OF EGYPT LTD.;Textiles International Of Egypt Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;TIE TEXTILES;Tie Textiles;Egypt
+496;Textiles La Paz, L.L.C.;Textiles La Paz, L.L.C.;FINISHED GOODS;Finished Goods;Apparel;Nike;FUN TEES;Fun Tees;El Salvador
+497;TEXTURERIAS, S.A. DE C.V.;Texturerias, S.A. De C.V.;FINISHED GOODS;Finished Goods;Apparel;Nike;TEXTURERIAS;Texturerias;Mexico
+498;Thai Sock Co., Ltd.;Thai Sock Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;THAI SOCKS;Thai Socks;Thailand
+499;The Haddad Apparel Wuxi, Co., LTD;The Haddad Apparel Wuxi, Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;HADDAD;Haddad;China
+500;Thuan Phuong Embroideries Garments Co., Ltd.;Thuan Phuong Embroideries Garments Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;THUAN PHUONG;Thuan Phuong;Vietnam
+501;TIGAMARO SRL;Tigamaro Srl;FINISHED GOODS;Finished Goods;Equipment;Nike;TIGAMARO;Tigamaro;Italy
+502;Ting Heng Co., Ltd;Ting Heng Co., Ltd;MATERIALS;Materials;Footwear;Converse;TING HENG;Ting Heng;Vietnam
+503;Tiong Liong Vietnam Tronjen Industrial Co., Ltd. (Weaving & Lamination) ;Tiong Liong Vietnam Tronjen Industrial Co., Ltd. (Weaving & Lamination) ;MATERIALS;Materials;Footwear;Nike;NAM LIONG;Nam Liong;Vietnam
+504;FUQING TIONGLIONG XINYE SHOES MATERIAL CO LTD;Fuqing Tiongliong Xinye Shoes Material Co Ltd;MATERIALS;Materials;Footwear;Nike;NAM LIONG;Nam Liong;China
+505;TIONG LIONG-Tiong Liong Industrial Co., Ltd. (Lamination);Tiong Liong-Tiong Liong Industrial Co., Ltd. (Lamination);MATERIALS;Materials;Footwear;Nike;NAM LIONG;Nam Liong;Taiwan
+506;TKG ECO MATERIAL SYNTHETIC (TR1) (KOREA);Tkg Eco Material Synthetic (Tr1) (Korea);FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;TKG ECO MATERIAL;Tkg Eco Material;South Korea
+507;TKG ECO MATERIAL SYNTHETIC (VIETNAM);Tkg Eco Material Synthetic (Vietnam);MATERIALS;Materials;Footwear;Nike;TKG ECO MATERIAL;Tkg Eco Material;Vietnam
+508;TKG TAEKWANG VINA JOINT STOCK COMPANY;Tkg Taekwang Vina Joint Stock Company;FINISHED GOODS;Finished Goods;Footwear;Nike;TAEKWANG;Taekwang;Vietnam
+509;TKG TAEKWNG BINH PHUOC COMPANY LIMITED;Tkg Taekwng Binh Phuoc Company Limited;MATERIALS;Materials;Footwear;Nike;TAEKWANG;Taekwang;Vietnam
+510;TMI Vietnam Co., Ltd;Tmi Vietnam Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;TUNG MUNG;Tung Mung;Vietnam
+511;JDTEX INDUMENTARIA S.A.;Jdtex Indumentaria S.A.;FINISHED GOODS;Finished Goods;Apparel;Converse;JDTEX INDUMENTARIA SA;Jdtex Indumentaria Sa;Argentina
+512;TONG HONG TANNERY CO LTD (CHINA);Tong Hong Tannery Co Ltd (China);MATERIALS;Materials;Footwear;Nike;TONG HONG;Tong Hong;China
+513;TONG HONG TANNERY CO LTD (VIETNAM);Tong Hong Tannery Co Ltd (Vietnam);MATERIALS;Materials;Footwear;Nike;TONG HONG;Tong Hong;Vietnam
+514;Top Summit Garment Inc;Top Summit Garment Inc;FINISHED GOODS;Finished Goods;Apparel;Nike;SABRINA;Sabrina;Cambodia
+515;TORAY SAKAI CO. LTD.;Toray Sakai Co. Ltd.;MATERIALS;Materials;Apparel;Nike;TORAY;Toray;China
+516;TRIMCO GROUP (HONG KONG) CO LTD;Trimco Group (Hong Kong) Co Ltd;MATERIALS;Materials;Apparel;Nike;TRIMCO GROUP;Trimco Group;China
+517;TRIMCO GROUP (ZHEJIANG) CO LTD;Trimco Group (Zhejiang) Co Ltd;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Apparel;Nike;TRIMCO GROUP;Trimco Group;China
+518;Trischel Fabric (PVT) Ltd;Trischel Fabric (Pvt) Ltd;MATERIALS;Materials;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Sri Lanka
+519;TTG Co. Ltd.;Ttg Co. Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;SOUTH ISLAND;South Island;Vietnam
+520;TUNTEX SOC TRANG VIETNAM CO.LTD;Tuntex Soc Trang Vietnam Co.Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;TUNTEX;Tuntex;Vietnam
+521;U.S. Embroidery, LLC;U.S. Embroidery, Llc;FINISHED GOODS;Finished Goods;Apparel;Nike;US EMBROIDERY;Us Embroidery;USA
+522;UAB Haltex;Uab Haltex;FINISHED GOODS;Finished Goods;Apparel;Nike;UAB HALTEX;Uab Haltex;Lithuania
+523;Unichela (Pvt)Ltd, Vidiyal Division;Unichela (Pvt)Ltd, Vidiyal Division;FINISHED GOODS;Finished Goods;Apparel;Nike;MAS HOLDINGS;Mas Holdings;Sri Lanka
+524;Unipax Co., Ltd;Unipax Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;HWASEUNG CROWN;Hwaseung Crown;Vietnam
+525;Unipax Vi Thanh C.,Ltd.;Unipax Vi Thanh C.,Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;HWASEUNG CROWN;Hwaseung Crown;Vietnam
+526;United Creation Optical Technology Co., Ltd;United Creation Optical Technology Co., Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;UNITED CREATION;United Creation;China
+527;United Sweethearts Garment (Vietnam) Co., Ltd.;United Sweethearts Garment (Vietnam) Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;UNITED SWEETHEART;United Sweetheart;Vietnam
+528;Universal Sporting Goods (Thai) Co., Ltd.;Universal Sporting Goods (Thai) Co., Ltd.;FINISHED GOODS;Finished Goods;Equipment;Nike;UNIVERSAL;Universal;Thailand
+529;VEGA BALLS MANUFACTURING;Vega Balls Manufacturing;FINISHED GOODS;Finished Goods;Equipment;Nike;VEGA BALL;Vega Ball;Thailand
+530;VERTEX APPAREL 2022 CO.,LTD.;Vertex Apparel 2022 Co.,Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;HI TECH;Hi Tech;Thailand
+531;Vertex One Apparel Phils., Inc.;Vertex One Apparel Phils., Inc.;FINISHED GOODS;Finished Goods;Apparel;Nike;Sports City;Sports City;Philippines
+532;Vertical Knits S.A. de C.V.;Vertical Knits S.A. De C.V.;FINISHED GOODS;Finished Goods;Apparel;Nike;VERTICAL KNITS;Vertical Knits;Mexico
+533;Vertical Knits S.A. de C.V. (MDC - Tizimin);Vertical Knits S.A. De C.V. (Mdc - Tizimin);FINISHED GOODS;Finished Goods;Apparel;Nike;VERTICAL KNITS;Vertical Knits;Mexico
+534;Viet Hong Garment Export Co., Ltd.;Viet Hong Garment Export Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;SOUTH ISLAND;South Island;Vietnam
+535;Viet Khanh Company Limited;Viet Khanh Company Limited;FINISHED GOODS;Finished Goods;Apparel;Nike;SOUTH ISLAND;South Island;Vietnam
+536;Viet Long Giang Garment Joint Stock Company ;Viet Long Giang Garment Joint Stock Company ;FINISHED GOODS;Finished Goods;Apparel;Nike;SOUTH ISLAND;South Island;Vietnam
+537;Viet Long Hung Garment Company Limited;Viet Long Hung Garment Company Limited;FINISHED GOODS;Finished Goods;Apparel;Nike;SOUTH ISLAND;South Island;Vietnam
+538;Viet Pan - Pacific Nam Dinh Co., Ltd;Viet Pan - Pacific Nam Dinh Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;PAN PACIFIC;Pan Pacific;Vietnam
+539;VIET THINH GARMENT JOINT STOCK COMPANY;Viet Thinh Garment Joint Stock Company;FINISHED GOODS;Finished Goods;Apparel;Nike;SOUTH ISLAND;South Island;Vietnam
+540;Viet Tien Garment Corporation;Viet Tien Garment Corporation;FINISHED GOODS;Finished Goods;Apparel;Nike;SOUTH ISLAND;South Island;Vietnam
+541;VIETNAM CHINGLUH SHOES CO. Ltd.;Vietnam Chingluh Shoes Co. Ltd.;FINISHED GOODS;Finished Goods;Footwear;Nike;CHING LUH;Ching Luh;Vietnam
+542;Vietnam Chingluh Shoes Co., Ltd - Vinh Long Branch;Vietnam Chingluh Shoes Co., Ltd - Vinh Long Branch;FINISHED GOODS;Finished Goods;Footwear;Nike;CHING LUH;Ching Luh;Vietnam
+543;VIETNAM CHINGLUH SHOES CO.,LTD - VINH LONG BRANCH II;Vietnam Chingluh Shoes Co.,Ltd - Vinh Long Branch Ii;FINISHED GOODS;Finished Goods;Footwear;Nike;CHING LUH;Ching Luh;Vietnam
+544;Vietnam ECI Elastic Co., Ltd;Vietnam Eci Elastic Co., Ltd;MATERIALS;Materials;Apparel;Nike;ECI;Eci;Vietnam
+545;Vietnam Golden Victory Co., Ltd.;Vietnam Golden Victory Co., Ltd.;FINISHED GOODS;Finished Goods;Footwear;Nike;STELLA;Stella;Vietnam
+546;TKG TAEKWANG MOC BAI JOINT STOCK COMPANY;Tkg Taekwang Moc Bai Joint Stock Company;FINISHED GOODS;Finished Goods;Footwear;Nike;TAEKWANG;Taekwang;Vietnam
+547;Vietnam Pou Sung Co. Ltd.;Vietnam Pou Sung Co. Ltd.;FINISHED GOODS;Finished Goods;Footwear;Nike;POU CHEN;Pou Chen;Vietnam
+548;Vietnam Weilina Footwear Co. Ltd;Vietnam Weilina Footwear Co. Ltd;FINISHED GOODS;Finished Goods;Footwear;Nike;HUALI;Huali;Vietnam
+549;VIMAL CLOTHING ENTERPRISE CC;Vimal Clothing Enterprise Cc;FINISHED GOODS;Finished Goods;Apparel;Nike;VIMAL CLOTHING;Vimal Clothing;South Africa
+550;VINH LONG FOOTWEAR CO LTD;Vinh Long Footwear Co Ltd;FINISHED GOODS;Finished Goods;Footwear;Converse;LAI YIH;Lai Yih;Vietnam
+551;VINH TIEN GARMENT JOINT STOCK COMPANY;Vinh Tien Garment Joint Stock Company;FINISHED GOODS;Finished Goods;Apparel;Nike;SOUTH ISLAND;South Island;Vietnam
+552;VIRTUE KING VIETNAM COMPANY LIMITED;Virtue King Vietnam Company Limited;FINISHED GOODS;Finished Goods;Equipment;Nike;GUANG DER;Guang Der;Vietnam
+553;Vo Nhai 1 Garment Branch – TNG Investment and Trading JSC;Vo Nhai 1 Garment Branch – Tng Investment And Trading Jsc;FINISHED GOODS;Finished Goods;Apparel;Nike;VO NHAI 1 GARMENT BRANCH;Vo Nhai 1 Garment Branch;Vietnam
+554;Vung Tau Orient Co., Ltd - unit 02;Vung Tau Orient Co., Ltd - Unit 02;FINISHED GOODS;Finished Goods;Equipment;Nike;FENG TAY;Feng Tay;Vietnam
+555;Vung Tau Orient Co., Ltd;Vung Tau Orient Co., Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;FENG TAY;Feng Tay;Vietnam
+556;W.S. Calcados Ltda.;W.S. Calcados Ltda.;FINISHED GOODS;Finished Goods;Footwear;Converse;W.S CALCADOS;W.S Calcados;Brazil
+557;Walt Technology Cambodia Co Ltd;Walt Technology Cambodia Co Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;ZHEJIANG WALT;Zhejiang Walt;Cambodia
+558;Walt Technology Group Co., Ltd.;Walt Technology Group Co., Ltd.;FINISHED GOODS;Finished Goods;Equipment;Nike;ZHEJIANG WALT;Zhejiang Walt;China
+559;Walt USA LLC;Walt Usa Llc;FINISHED GOODS;Finished Goods;Equipment;Nike;ZHEJIANG WALT;Zhejiang Walt;USA
+560;Wan Way;Wan Way;FINISHED GOODS;Finished Goods;Equipment;Nike;WAN WAY;Wan Way;Taiwan
+561;WELLPOWER SPORTING GOODS CO LTD;Wellpower Sporting Goods Co Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;WELLPOWER;Wellpower;China
+562;WILSON (VIETNAM) LTD;Wilson (Vietnam) Ltd;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Apparel;Nike;WILSON GARMENT;Wilson Garment;Vietnam
+563;Wonjin Korea Glotech Co., Ltd.;Wonjin Korea Glotech Co., Ltd.;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;WONJIN TECH;Wonjin Tech;Vietnam
+564;Worldon Vietnam Co., Ltd.;Worldon Vietnam Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;SHENZHOU;Shenzhou;Vietnam
+565;Xiamen Expanding Industrial Co., Ltd;Xiamen Expanding Industrial Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;HADDAD;Haddad;China
+566;Xiamen Goge Garment Co., LTD;Xiamen Goge Garment Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;XIAMEN GOGE;Xiamen Goge;China
+567;Xiamen Hongting Garment Co., Ltd.;Xiamen Hongting Garment Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;HADDAD;Haddad;China
+568;Xiamen Kaiyuan Technology Co.,Ltd;Xiamen Kaiyuan Technology Co.,Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;XIAMEN KAIYUAN;Xiamen Kaiyuan;China
+569;XIANG ZHOU LEATHER CO LTD (CHINA);Xiang Zhou Leather Co Ltd (China);MATERIALS;Materials;Footwear;Nike;XIANG ZHOU LEATHER;Xiang Zhou Leather;China
+570;Xinchang Shoes Co.,Ltd;Xinchang Shoes Co.,Ltd;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;DEAN SHOES;Dean Shoes;China
+571;XingNing City XinChang Shoes Co., LTD. YeTang Branch;Xingning City Xinchang Shoes Co., Ltd. Yetang Branch;MATERIALS;Materials;Footwear;Nike;DEAN SHOES;Dean Shoes;China
+572;Y&W Garment Co., LTD;Y&W Garment Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;Y W GARMENT;Y W Garment;Cambodia
+573;YANCHENG XINBO GARMENTS CO LTD;Yancheng Xinbo Garments Co Ltd;FINISHED GOODS;Finished Goods;Apparel;Converse;DECOR;Decor;China
+574;Yangxin Poujia Footwear Co. Ltd.;Yangxin Poujia Footwear Co. Ltd.;FINISHED GOODS;Finished Goods;Footwear;Nike;POU CHEN;Pou Chen;China
+575;Yangzhou Baoyi Shoes Manufacturing Co.,Ltd.;Yangzhou Baoyi Shoes Manufacturing Co.,Ltd.;FINISHED GOODS;Finished Goods;Footwear;Converse;LAI YIH;Lai Yih;China
+576;Yantai NE Apparel CO.,LTD;Yantai Ne Apparel Co.,Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;NICE APPAREL;Nice Apparel;China
+577;Yegin Industry (Vietnam) Co., Ltd;Yegin Industry (Vietnam) Co., Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;YEGIN;Yegin;Vietnam
+578;YICHANE CO.LTD;Yichane Co.Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;YICHANE;Yichane;Taiwan
+579;Yichun Yisen Industry Co., Ltd;Yichun Yisen Industry Co., Ltd;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;POU CHEN;Pou Chen;China
+580;YongZhou Kaixiang Shoetown Footwear Co., Ltd. NOT A FINISHED GOODS FACILITY;Yongzhou Kaixiang Shoetown Footwear Co., Ltd. Not A Finished Goods Facility;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;SHOETOWN;Shoetown;China
+581;YongZhou Kaixin Shoetown Footwear Co., Ltd.;Yongzhou Kaixin Shoetown Footwear Co., Ltd.;FINISHED GOODS;Finished Goods;Footwear;Nike;SHOETOWN;Shoetown;China
+582;You Young;You Young;FINISHED GOODS - COMPONENTS;Finished Goods - Components;Footwear;Nike;YOU YOUNG;You Young;South Korea
+583;YOU YOUNG (VIETNAM);You Young (Vietnam);MATERIALS;Materials;Footwear;Nike;YOU YOUNG;You Young;Vietnam
+584;YOUNGIL (INDONESIA);Youngil (Indonesia);MATERIALS;Materials;Footwear;Nike;YOUNGIL LEATHER;Youngil Leather;Indonesia
+585;YOUNGIL (VIETNAM);Youngil (Vietnam);MATERIALS;Materials;Footwear;Nike;YOUNGIL LEATHER;Youngil Leather;Vietnam
+586;YRC TEXTILE;Yrc Textile;MATERIALS;Materials;Apparel;Nike;YRC TEXTILE;Yrc Textile;Thailand
+587;YSA  MOL;Ysa  Mol;FINISHED GOODS;Finished Goods;Apparel;Nike;YESIM;Yesim;Moldova
+588;Yuan Ling Knitting Industrial CO., LTD.;Yuan Ling Knitting Industrial Co., Ltd.;MATERIALS;Materials;Footwear;Nike;YUAN LING;Yuan Ling;Taiwan
+589;Yumei Shantou Garments Co., Ltd;Yumei Shantou Garments Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;EAGLE NICE;Eagle Nice;China
+590;Zao Zhuang RuiXing Shoes Co., Ltd;Zao Zhuang Ruixing Shoes Co., Ltd;FINISHED GOODS;Finished Goods;Footwear;Nike;CHANGSHIN;Changshin;China
+591;Zhangjiagang New HuaYuan Accessones Co., Ltd;Zhangjiagang New Huayuan Accessones Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;HUAYUAN ACCESSORIES;Huayuan Accessories;China
+592;ZHANGJIAJIE EXCELLENCE SPORT PRODUCTS CO., LTD.;Zhangjiajie Excellence Sport Products Co., Ltd.;FINISHED GOODS;Finished Goods;Equipment;Nike;ALPUS;Alpus;China
+593;Zhangpu Hengxin Bags Co., Ltd;Zhangpu Hengxin Bags Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;ZHANGPU HENGXIN;Zhangpu Hengxin;China
+594;ZheJiang Clis Fashion Co., Ltd.;Zhejiang Clis Fashion Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;ZHEJIANG XIANCHEN IMPORT AND EXPORT;Zhejiang Xianchen Import And Export;China
+595;Zhejiang Guangtai Delta Socks Co. Ltd.;Zhejiang Guangtai Delta Socks Co. Ltd.;FINISHED GOODS;Finished Goods;Equipment;Nike;DELTA;Delta;China
+596;Zhejiang Mizuda Textile Printing & Dyeing Co., Ltd;Zhejiang Mizuda Textile Printing & Dyeing Co., Ltd;MATERIALS;Materials;Apparel;Converse;MIZUDA HOLDINGS;Mizuda Holdings;China
+597;Zhijie Footwear Technical Service (Zhongshan) CO.,Ltd;Zhijie Footwear Technical Service (Zhongshan) Co.,Ltd;FINISHED GOODS;Finished Goods;Footwear;Converse;HUALI;Huali;China
+598;ZHIXIANG KNITTING CLOTHING FACTORY;Zhixiang Knitting Clothing Factory;FINISHED GOODS;Finished Goods;Apparel;Nike;ZHIXIANG KNITTING FACTORY;Zhixiang Knitting Factory;China
+599;Zhuji Hengan Socks Co Ltd;Zhuji Hengan Socks Co Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;HENGTAI;Hengtai;China
+600;Zhuji Hengtai Knitting & Textile Co., Ltd.;Zhuji Hengtai Knitting & Textile Co., Ltd.;FINISHED GOODS;Finished Goods;Equipment;Nike;DELTA;Delta;China
+601;QINGDAO MAITE FITNESS EQUIPMENT CO.,LTD;Qingdao Maite Fitness Equipment Co.,Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;QINGDAO MAITE;Qingdao Maite;China
+602;Qingdao Qien Sporting Goods Co.,Ltd;Qingdao Qien Sporting Goods Co.,Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;QINGDAO QIEN;Qingdao Qien;China
+603;PT. GREENTEX INDONESIA UTAMA II;Pt. Greentex Indonesia Utama Ii;FINISHED GOODS;Finished Goods;Apparel;Nike;PT.GREENTEX;Pt.Greentex;Indonesia
+604;UN-AVAILABLE CO. LTD.;Un-Available Co. Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;UN AVAILABLE;Un Available;Vietnam
+605;TOPSHOES IND CALCADOS SA;Topshoes Ind Calcados Sa;FINISHED GOODS;Finished Goods;Footwear;Converse;COOPERSHOES;Coopershoes;Brazil
+606;Qingdao Licheng Health Technology Co., Ltd.;Qingdao Licheng Health Technology Co., Ltd.;FINISHED GOODS;Finished Goods;Equipment;Nike;QINGDAO LICHENG;Qingdao Licheng;China
+607;WUXI BROTHERS PACKAGING CO., LTD ;Wuxi Brothers Packaging Co., Ltd ;FINISHED GOODS;Finished Goods;Equipment;Nike;WUXI BROTHERS PACKAGING CO., LTD;Wuxi Brothers Packaging Co., Ltd;China
+608;FASHION GARMENTS 2 CO., LTD. - TAN PHU BRANCH;Fashion Garments 2 Co., Ltd. - Tan Phu Branch;FINISHED GOODS;Finished Goods;Apparel;Nike;FASHION GARMENTS;Fashion Garments;Vietnam
+609;Fujian Zhuojian Garment Technology Co., Ltd;Fujian Zhuojian Garment Technology Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;FUJIAN ZHUOJIAN;Fujian Zhuojian;China
+610;Wenzhou Outlook Eyewear Co., Ltd;Wenzhou Outlook Eyewear Co., Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;WENZHOU OUTLOOK;Wenzhou Outlook;China
+611;Guangzhou Jin Hong Yuan Leather;Guangzhou Jin Hong Yuan Leather;FINISHED GOODS;Finished Goods;Apparel;Nike;GUANGZHOU JIN HONG YUAN LEATHER;Guangzhou Jin Hong Yuan Leather;China
+612;JINGNING XUANCHEN TECHNOLOGY CO., LTD.;Jingning Xuanchen Technology Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;JINGNING XUANCHEN TECHNOLOGY;Jingning Xuanchen Technology;China
+613;Tiong Liong Vietnam (ZHONGJU INDUSTRIAL COMPANY);Tiong Liong Vietnam (Zhongju Industrial Company);MATERIALS;Materials;Footwear;Nike;NAM LIONG;Nam Liong;Vietnam
+614;Sung Shin Chemical;Sung Shin Chemical;FINISHED GOODS;Finished Goods;Equipment;Nike;JR286;Jr286;South Korea
+615;DONGGUAN JINGSHENG GARMENTS CO.,LTD;Dongguan Jingsheng Garments Co.,Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;CRYSTAL;Crystal;China
+616;Maxpro Sports Manufacturing Inc.;Maxpro Sports Manufacturing Inc.;FINISHED GOODS;Finished Goods;Equipment;Nike;MAXPRO;Maxpro;Philippines
+617;Fashion Garments Company Limited;Fashion Garments Company Limited;FINISHED GOODS;Finished Goods;Apparel;Nike;FASHION GARMENTS;Fashion Garments;Vietnam
+618;Young Clothing (Cambodia) Co., Ltd;Young Clothing (Cambodia) Co., Ltd;FINISHED GOODS;Finished Goods;Apparel;Nike;YOUNG CLOTHING;Young Clothing;Cambodia
+619;FOREVER FUG GARMENT CO., LTD.;Forever Fug Garment Co., Ltd.;FINISHED GOODS;Finished Goods;Apparel;Nike;FOREVER FUG;Forever Fug;Cambodia
+620;TNG INVESTMENT AND TRADING JSC - DONG HY GARMENT;Tng Investment And Trading Jsc - Dong Hy Garment;FINISHED GOODS;Finished Goods;Apparel;Nike;TNG;Tng;Vietnam
+621;Vertical Knits S.A. de C.V. (MDC - Campeche);Vertical Knits S.A. De C.V. (Mdc - Campeche);FINISHED GOODS;Finished Goods;Apparel;Nike;VERTICAL KNITS S.A;Vertical Knits S.A;Mexico
+622;Tremon Sporting Goods Enterprise Co.,Ltd;Tremon Sporting Goods Enterprise Co.,Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;TREMON;Tremon;Vietnam
+623;BUSINESS LOCATION IN VUNG LIEM - TY XUAN COMPANY LIMITED;Business Location In Vung Liem - Ty Xuan Company Limited;FINISHED GOODS;Finished Goods;Footwear;Converse;LAI YIH;Lai Yih;Vietnam
+624;Cixi SunRise Sporting Goods Co.,Ltd;Cixi Sunrise Sporting Goods Co.,Ltd;FINISHED GOODS;Finished Goods;Equipment;Nike;CIXI SUNRISE SPORTING GOODS;Cixi Sunrise Sporting Goods;China
+625;Zentrix Huamantla;Zentrix Huamantla;FINISHED GOODS;Finished Goods;Apparel;Nike;ZENTRIX;Zentrix;Mexico
+626;JIANGSU NINGSHENG GARMENT CO.,LTD   ;Jiangsu Ningsheng Garment Co.,Ltd   ;FINISHED GOODS;Finished Goods;Apparel;Nike;JIANGSU NINGSHENG GARMENT;Jiangsu Ningsheng Garment;China
