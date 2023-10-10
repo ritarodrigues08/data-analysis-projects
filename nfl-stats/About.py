@@ -10,8 +10,12 @@ st.set_page_config(
 if "data" not in st.session_state:
   df = pd.read_csv(r"C:\Users\anagr\Documentos\projects-github\data-analysis-projects\nfl-stats\yearly_data.csv", index_col=0)
   df.columns = df.columns.str.title()
+  df = df.set_index("Name")
   df = df.sort_values(by="Season", ascending=False)
   st.session_state["data"] = df
+  df.index
+
+
 
 st.title("NFL STATS 🏈", anchor=False)
 st.markdown("A web app that shows the season offensive stats between 2012 and 2022 for QB, WR and TE.")

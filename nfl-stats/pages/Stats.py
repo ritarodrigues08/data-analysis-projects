@@ -11,17 +11,31 @@ st.header("Player Statistics 📈", anchor=False)
 df = st.session_state["data"]
 
 # Selectbox creation - Season
-seasons = df["Season"].sort_values(ascending=False).unique()
-season_selectbox = st.sidebar.selectbox("Season", seasons)
+seasons = sorted(df["Season"].unique(), reverse=True)
+season_selectbox = st.sidebar.multiselect("Season", seasons)
 
 # Selectbox creation - Teams
-teams = df["Team"].sort_values().unique()
-team_selectbox = st.sidebar.selectbox("Team", teams)
+teams = sorted(df["Team"].unique())
+team_selectbox = st.sidebar.multiselect("Team", teams)
+
+# Selectbox creation - Positions
+positions = sorted(df["Position"].unique())
+position_selectbox = st.sidebar.multiselect("Position", positions)
+
+df_filtered = df
+
+# Selectbox creation - Player
+index = df.index
+player_selectbox = st.sidebar.multiselect("Player", index)
 
 # Output
-df_filtered = df[df["Season"] == season_selectbox].set_index("Name")
-df_filtered = df_filtered[df_filtered["Team"] == team_selectbox]
+if len(season_selectbox) > 0:
+  df_filtered = df_filtered[df_filtered["Season"].isin(season_selectbox)]
+if len(team_selectbox)  > 0:        
+  df_filtered = df_filtered[df_filtered["Team"].isin(team_selectbox)]
+if len(position_selectbox) > 0:
+  df_filtered = df_filtered[df_filtered["Position"].isin(position_selectbox)]
+if len(player_selectbox) > 0:
+  df_filtered = df_filtered.loc[player_selectbox]
+
 st.dataframe(df_filtered, height=500)
-
-#df
-
