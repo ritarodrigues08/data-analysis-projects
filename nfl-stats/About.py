@@ -13,9 +13,6 @@ if "data" not in st.session_state:
   df = df.set_index("Name")
   df = df.sort_values(by="Season", ascending=False)
   st.session_state["data"] = df
-  df.index
-
-
 
 st.title("NFL STATS 🏈", anchor=False)
 st.markdown("A web app that shows the season offensive stats between 2012 and 2022 for QB, WR and TE.")

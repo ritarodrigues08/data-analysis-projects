@@ -22,12 +22,11 @@ team_selectbox = st.sidebar.multiselect("Team", teams)
 positions = sorted(df["Position"].unique())
 position_selectbox = st.sidebar.multiselect("Position", positions)
 
-df_filtered = df
-
 # Selectbox creation - Player
-index = df.index
+index = sorted(df.index.unique(), reverse=False)
 player_selectbox = st.sidebar.multiselect("Player", index)
 
+df_filtered = df
 # Output
 if len(season_selectbox) > 0:
   df_filtered = df_filtered[df_filtered["Season"].isin(season_selectbox)]
@@ -38,4 +37,4 @@ if len(position_selectbox) > 0:
 if len(player_selectbox) > 0:
   df_filtered = df_filtered.loc[player_selectbox]
 
-st.dataframe(df_filtered, height=500)
+st.dataframe(df_filtered)
