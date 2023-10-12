@@ -12,7 +12,7 @@ if "data" not in st.session_state:
   df.columns = df.columns.str.title()
   df = df.set_index("Name")
   df = df.sort_values(by="Season", ascending=False)
-  df = df[['Position', 'Team', 'Season', 'Completions', 'Attempts', 'Passing_Yards', 'Passing_Tds', 'Interceptions', 'Sacks', 'Carries', 'Rushing_Yards', 'Rushing_Tds', 'Rushing_Fumbles', 'Receptions', 'Targets', 'Receiving_Yards', 'Receiving_Tds', 'Receiving_Fumbles', 'Comp_Percentage', 'Pass_Td_Percentage', 'Int_Percentage', 'Rush_Td_Percentage', 'Rec_Td_Percentage', 'Total_Tds', 'Td_Percentage', 'Pass_Ypg', 'Rush_Ypg', 'Rec_Ypg', 'Ypg']]
+  df = df[['Position', 'Team', 'Season', 'Completions', 'Attempts', 'Passing_Yards', 'Passing_Tds', 'Interceptions', 'Sacks', 'Carries', 'Rushing_Yards', 'Rushing_Tds', 'Rushing_Fumbles', 'Receptions', 'Targets', 'Receiving_Yards', 'Receiving_Tds', 'Receiving_Fumbles', 'Comp_Percentage', 'Pass_Td_Percentage', 'Int_Percentage', 'Rush_Td_Percentage', 'Rec_Td_Percentage', 'Total_Tds', 'Td_Percentage', 'Pass_Ypg', 'Rush_Ypg', 'Rec_Ypg']]
   columns_percentage = ['Comp_Percentage', 'Pass_Td_Percentage', 'Int_Percentage', 'Rush_Td_Percentage', 'Rec_Td_Percentage', 'Td_Percentage']
   for columns in columns_percentage:
     df[columns] = df[columns].apply(lambda x: f'{x:.2%}')
@@ -21,9 +21,8 @@ if "data" not in st.session_state:
     df[columns] = df[columns].apply(lambda x: f'{int(x):d}')
   columns_decimals = ['Pass_Ypg', 'Rush_Ypg', 'Rec_Ypg', 'Ypg']
   for columns in columns_decimals:
-    df[columns] = df[columns].apply(lambda x: f'{x:.1f}') 
+    df[columns] = df[columns].apply(lambda x: f'{x:.1f}')
   st.session_state["data"] = df
-
 
 st.title("NFL STATS 🏈", anchor=False)
 st.markdown("A web app that shows the season offensive stats between 2012 and 2022 for QB, WR and TE.")
