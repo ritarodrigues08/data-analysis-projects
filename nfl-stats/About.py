@@ -3,8 +3,7 @@ import pandas as pd
 import webbrowser
 
 st.set_page_config(
-  page_title="About",
-  layout="centered"
+  page_title="About"
 )
 
 if "data" not in st.session_state:
@@ -16,13 +15,13 @@ if "data" not in st.session_state:
   columns_percentage = ['Comp_Percentage', 'Pass_Td_Percentage', 'Int_Percentage', 'Rush_Td_Percentage', 'Rec_Td_Percentage', 'Td_Percentage']
   for columns in columns_percentage:
     df[columns] = df[columns].apply(lambda x: f'{x:.2%}')
-  columns_integer = ["Season", "Passing_Yards", "Rushing_Yards", "Receiving_Yards"]
+    columns_integer = ["Season", "Passing_Yards", "Rushing_Yards", "Receiving_Yards"]
   for columns in columns_integer:
     df[columns] = df[columns].apply(lambda x: f'{int(x):d}')
-  columns_decimals = ['Pass_Ypg', 'Rush_Ypg', 'Rec_Ypg']
+    columns_decimals = ['Pass_Ypg', 'Rush_Ypg', 'Rec_Ypg']
   for columns in columns_decimals:
     df[columns] = df[columns].apply(lambda x: f'{x:.1f}')
-  st.session_state["data"] = df
+    st.session_state["data"] = df
 
 st.title("NFL STATS 🏈", anchor=False)
 st.markdown("A web app that shows the season offensive stats between 2012 and 2022 for QB, WR, RB and TE.")

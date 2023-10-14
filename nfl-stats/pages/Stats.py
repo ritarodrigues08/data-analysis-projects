@@ -3,8 +3,9 @@ import pandas as pd
 
 st.set_page_config(
   page_title="Stats",
-  layout="wide"
+  layout='wide'
 )
+
 
 st.header("Player Statistics 📈", anchor=False)
 st.markdown(
