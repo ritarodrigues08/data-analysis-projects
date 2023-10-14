@@ -1,0 +1,61 @@
+# Selectbox creation - Player
+index = sorted(df.index.unique(), reverse=False)
+player_selectbox = st.sidebar.multiselect("Player", index)
+
+if len(player_selectbox) > 0:
+  df_filtered = df_filtered.loc[player_selectbox]
+
+
+  
+NFL Teams in Alphabetical Order: Listed by City and Team Name
+Looking for the NFL teams in alphabetical order? We've done just that, giving you two lists sorted by city and team name.
+
+Next
+Stay
+
+
+
+
+Auto (360p)
+225p
+360p
+Subtitles Off
+Subtitles EN
+Ben Rolfe
+By
+Ben Rolfe
+April 7, 2023 | 10:15 AM EDT
+Looking for a list of NFL teams in alphabetical order? Pro Football Network is here to help! From the Arizona Cardinals all the way down to the Washington Commanders (if sorting by full name) and 49ers down to Vikings (if you want them by nickname).
+
+Arizona Cardinals
+Atlanta Falcons
+Baltimore Ravens
+Buffalo Bills
+Carolina Panthers
+Chicago Bears
+Cincinnati Bengals
+Cleveland Browns
+Dallas Cowboys
+Denver Broncos
+Detroit Lions
+Green Bay Packers
+Houston Texans
+Indianapolis Colts
+Jacksonville Jaguars
+Kansas City Chiefs
+Las Vegas Raiders
+Los Angeles Chargers
+Los Angeles Rams
+Miami Dolphins
+Minnesota Vikings
+New England Patriots
+New Orleans Saints
+New York Giants
+New York Jets
+Philadelphia Eagles
+Pittsburgh Steelers
+San Francisco 49ers
+Seattle Seahawks
+Tampa Bay Buccaneers
+Tennessee Titans
+Washington Commanders
